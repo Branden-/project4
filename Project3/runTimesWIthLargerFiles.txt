@@ -1,0 +1,24 @@
+
+HashTable
+The correlator number: 0.034918737030811685(%^2)
+It took 12 seconds to tokenize, sort and count the words in the file completeWor
+ksofShakespeare.txt
+It took 11 seconds tokenize, sort and count the words in the file EssayOfSirFran
+cisBacon.txt
+
+BST
+The correlator number: 0.034918737030811685(%^2)
+It took 12 seconds to tokenize, sort and count the words in the file completeWor
+ksofShakespeare.txt
+It took 11 seconds tokenize, sort and count the words in the file EssayOfSirFran
+cisBacon.txt
+
+AVL tree
+The correlator number: 0.034918737030811685(%^2)
+It took 370 seconds to tokenize, sort and count the words in the file completeWo
+rksofShakespeare.txt
+It took 11 seconds tokenize, sort and count the words in the file EssayOfSirFran
+cisBacon.txt
+
+perl script
+Tokenizing, sorting and printing took 12 seconds

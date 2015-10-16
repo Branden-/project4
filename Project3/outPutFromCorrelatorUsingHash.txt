@@ -1,0 +1,5094 @@
+C:\Users\Branden\git\project3DocumentAnalysis\Project3>java -cp bin Correlator
+amlet.txt the-new-atlantis.txt -h
+              aboard    0.00899%                              abound    0.00648
+
+            accident    0.00899%                            abounded    0.00648
+
+               actor    0.00899%                            abruptly    0.00648
+
+            addition    0.00899%                           abstracts    0.00648
+
+          admiration    0.00899%                             abusing    0.00648
+
+              advice    0.00899%                              accept    0.00648
+
+          affliction    0.00899%                              access    0.00648
+
+               alack    0.00899%                         acclamation    0.00648
+
+               allow    0.00899%                           accounted    0.00648
+
+               along    0.00899%                          accounting    0.00648
+
+           ambitious    0.00899%                                 act    0.00648
+
+              angels    0.00899%                            activity    0.00648
+
+               argal    0.00899%                                acts    0.00648
+
+              armour    0.00899%                               added    0.00648
+
+                 ask    0.00899%                              adding    0.00648
+
+               avoid    0.00899%                            adjacent    0.00648
+
+             beating    0.00899%                          admiration    0.00648
+
+             beckons    0.00899%                            admiring    0.00648
+
+             becomes    0.00899%                               admit    0.00648
+
+               below    0.00899%                            admitted    0.00648
+
+                bend    0.00899%                          admonition    0.00648
+
+                bent    0.00899%                                 ado    0.00648
+
+              bitter    0.00899%                               adore    0.00648
+
+               blame    0.00899%                            advanced    0.00648
+
+               bless    0.00899%                           adventure    0.00648
+
+                blow    0.00899%                              advice    0.00648
+
+                bold    0.00899%                             advices    0.00648
+
+               borne    0.00899%                            advising    0.00648
+
+                 bow    0.00899%                          advoutries    0.00648
+
+                 boy    0.00899%                             aethiop    0.00648
+
+               brave    0.00899%                         affectation    0.00648
+
+                brow    0.00899%                           affection    0.00648
+
+               burst    0.00899%                             affront    0.00648
+
+               canst    0.00899%                           aforehand    0.00648
+
+                 cap    0.00899%                               agree    0.00648
+
+               carry    0.00899%                                 ale    0.00648
+
+            ceremony    0.00899%                               alike    0.00648
+
+             chamber    0.00899%                               alive    0.00648
+
+              chaste    0.00899%                            alliance    0.00648
+
+               cheer    0.00899%                               allow    0.00648
+
+               chief    0.00899%                               along    0.00648
+
+            children    0.00899%                             altabin    0.00648
+
+                clay    0.00899%                             altered    0.00648
+
+               close    0.00899%                             amended    0.00648
+
+          complexion    0.00899%                           amendment    0.00648
+
+          confession    0.00899%                              amends    0.00648
+
+            consider    0.00899%                           americans    0.00648
+
+             content    0.00899%                           ancestors    0.00648
+
+          corruption    0.00899%                               angel    0.00648
+
+               corse    0.00899%                           angelical    0.00648
+
+             counsel    0.00899%                              angels    0.00648
+
+           creatures    0.00899%                            anything    0.00648
+
+               cried    0.00899%                               apace    0.00648
+
+              crimes    0.00899%                           aphorisms    0.00648
+
+              defend    0.00899%                          apocalypse    0.00648
+
+             delight    0.00899%                            apostles    0.00648
+
+            delights    0.00899%                         apostolical    0.00648
+
+                 dew    0.00899%                         apparitions    0.00648
+
+            dispatch    0.00899%                            appeased    0.00648
+
+            doomsday    0.00899%                           appertain    0.00648
+
+               doors    0.00899%                        appertaineth    0.00648
+
+               dozen    0.00899%                         apprentices    0.00648
+
+               draws    0.00899%                                 apt    0.00648
+
+            dreadful    0.00899%                            arabians    0.00648
+
+              drinks    0.00899%                          arefaction    0.00648
+
+                drum    0.00899%                              aright    0.00648
+
+                 dry    0.00899%                               arise    0.00648
+
+              ducats    0.00899%                                 arm    0.00648
+
+                edge    0.00899%                                army    0.00648
+
+            election    0.00899%                               arose    0.00648
+
+           encounter    0.00899%                               array    0.00648
+
+               enemy    0.00899%                              arrive    0.00648
+
+             entreat    0.00899%                             arrived    0.00648
+
+             envenom    0.00899%                           ascension    0.00648
+
+              estate    0.00899%                              ascent    0.00648
+
+                evil    0.00899%                               aside    0.00648
+
+          excellence    0.00899%                              asking    0.00648
+
+            faithful    0.00899%                                 asp    0.00648
+
+               fancy    0.00899%                              aspect    0.00648
+
+             fantasy    0.00899%                           assembled    0.00648
+
+              faults    0.00899%                            assisted    0.00648
+
+               feast    0.00899%                           assisteth    0.00648
+
+                 fee    0.00899%                           assurance    0.00648
+
+             feeling    0.00899%                             assured    0.00648
+
+             fellows    0.00899%                          astonished    0.00648
+
+                 few    0.00899%                           athenians    0.00648
+
+               fiery    0.00899%                          attendance    0.00648
+
+             finding    0.00899%                         attentively    0.00648
+
+               finds    0.00899%                              attire    0.00648
+
+                five    0.00899%                             attired    0.00648
+
+                 fix    0.00899%                          attributes    0.00648
+
+                flat    0.00899%                              author    0.00648
+
+             flowers    0.00899%                           authority    0.00648
+
+             foolish    0.00899%                             avoided    0.00648
+
+                foot    0.00899%                            avoiding    0.00648
+
+               force    0.00899%                               azure    0.00648
+
+               forms    0.00899%                           bachelors    0.00648
+
+             forward    0.00899%                               bacon    0.00648
+
+                gall    0.00899%                                 bad    0.00648
+
+              gaming    0.00899%                                bade    0.00648
+
+              gather    0.00899%                                bake    0.00648
+
+            generous    0.00899%                                balm    0.00648
+
+              giving    0.00899%                               bands    0.00648
+
+                gods    0.00899%                              banish    0.00648
+
+               going    0.00899%                             bargain    0.00648
+
+              golden    0.00899%                              basely    0.00648
+
+              goodly    0.00899%                           basilisks    0.00648
+
+               green    0.00899%                              basins    0.00648
+
+               gross    0.00899%                             bastons    0.00648
+
+               guilt    0.00899%                               bathe    0.00648
+
+               hadst    0.00899%                              battle    0.00648
+
+             hangers    0.00899%                                bays    0.00648
+
+               haply    0.00899%                               beard    0.00648
+
+               harsh    0.00899%                             bearing    0.00648
+
+               hears    0.00899%                               bears    0.00648
+
+            heartily    0.00899%                               beast    0.00648
+
+               heels    0.00899%                              beaten    0.00648
+
+            hercules    0.00899%                           beautiful    0.00648
+
+                hill    0.00899%                                bees    0.00648
+
+          historical    0.00899%                          beforehand    0.00648
+
+                hits    0.00899%                               began    0.00648
+
+          honourable    0.00899%                               begin    0.00648
+
+                idle    0.00899%                           beginning    0.00648
+
+           ignorance    0.00899%                              behave    0.00648
+
+            ignorant    0.00899%                              behold    0.00648
+
+           importing    0.00899%                           beholding    0.00648
+
+         indifferent    0.00899%                              beings    0.00648
+
+              inward    0.00899%                             believe    0.00648
+
+            jephthah    0.00899%                            believed    0.00648
+
+                jest    0.00899%                             bellies    0.00648
+
+                 jig    0.00899%                               bells    0.00648
+
+               judge    0.00899%                               belly    0.00648
+
+           judgments    0.00899%                           belongeth    0.00648
+
+              justly    0.00899%                             beloved    0.00648
+
+               kills    0.00899%                         benefactors    0.00648
+
+              kisses    0.00899%                             berries    0.00648
+
+              labour    0.00899%                             beseech    0.00648
+
+              ladies    0.00899%                              beside    0.00648
+
+                left    0.00899%                            besought    0.00648
+
+                lets    0.00899%                               bests    0.00648
+
+              letter    0.00899%                              beyond    0.00648
+
+             liberal    0.00899%                                 bid    0.00648
+
+               liege    0.00899%                             binding    0.00648
+
+               liest    0.00899%                               birth    0.00648
+
+               likes    0.00899%                              births    0.00648
+
+               lines    0.00899%                              biting    0.00648
+
+              livery    0.00899%                             blessed    0.00648
+
+                  lo    0.00899%                              bloods    0.00648
+
+                loud    0.00899%                               blown    0.00648
+
+              loving    0.00899%                               bluer    0.00648
+
+             married    0.00899%                             boscage    0.00648
+
+             masters    0.00899%                             bottoms    0.00648
+
+                mere    0.00899%                               bound    0.00648
+
+            mistress    0.00899%                             bounden    0.00648
+
+              mobled    0.00899%                              bounds    0.00648
+
+                morn    0.00899%                              bounty    0.00648
+
+            mountain    0.00899%                                 box    0.00648
+
+           murtherer    0.00899%                               brake    0.00648
+
+              nation    0.00899%                              branch    0.00648
+
+                neck    0.00899%                              breath    0.00648
+
+              nights    0.00899%                             breathe    0.00648
+
+                nine    0.00899%                               breed    0.00648
+
+                nony    0.00899%                              brewed    0.00648
+
+             observe    0.00899%                          brewhouses    0.00648
+
+                odds    0.00899%                              bridle    0.00648
+
+            offended    0.00899%                             briefly    0.00648
+
+               often    0.00899%                              bright    0.00648
+
+                open    0.00899%                               brims    0.00648
+
+               order    0.00899%                            broiding    0.00648
+
+               organ    0.00899%                               brook    0.00648
+
+           otherwise    0.00899%                            brooking    0.00648
+
+             ourself    0.00899%                           brotherly    0.00648
+
+               parts    0.00899%                              broths    0.00648
+
+             passage    0.00899%                               brown    0.00648
+
+             passing    0.00899%                           buildings    0.00648
+
+                past    0.00899%                             burning    0.00648
+
+             patient    0.00899%                              buying    0.00648
+
+             perform    0.00899%                              cabala    0.00648
+
+               pious    0.00899%                            calamity    0.00648
+
+                pipe    0.00899%                                calm    0.00648
+
+                 pit    0.00899%                               calms    0.00648
+
+             piteous    0.00899%                           cambaline    0.00648
+
+                pith    0.00899%                             cambric    0.00648
+
+               pluck    0.00899%                               canes    0.00648
+
+              poland    0.00899%                             cannons    0.00648
+
+                post    0.00899%                              canoes    0.00648
+
+              powers    0.00899%                           canonical    0.00648
+
+             prepare    0.00899%                              carpet    0.00648
+
+            presence    0.00899%                            carpeted    0.00648
+
+             present    0.00899%                             carpets    0.00648
+
+              priest    0.00899%                            carriage    0.00648
+
+              prince    0.00899%                            carrieth    0.00648
+
+             process    0.00899%                               carry    0.00648
+
+            proclaim    0.00899%                       carthaginians    0.00648
+
+              profit    0.00899%                              carved    0.00648
+
+               proud    0.00899%                           cataracts    0.00648
+
+                prov    0.00899%                              ceased    0.00648
+
+               prove    0.00899%                                cell    0.00648
+
+                pure    0.00899%                             cements    0.00648
+
+            purposes    0.00899%                            censured    0.00648
+
+               purse    0.00899%                            ceremony    0.00648
+
+                   r    0.00899%                           cessation    0.00648
+
+                rage    0.00899%                              chains    0.00648
+
+              rapier    0.00899%                           chaldeans    0.00648
+
+             rapiers    0.00899%                            chamolet    0.00648
+
+                rash    0.00899%                              chance    0.00648
+
+                 rat    0.00899%                              change    0.00648
+
+              receiv    0.00899%                          chargeable    0.00648
+
+           recorders    0.00899%                            charters    0.00648
+
+             recover    0.00899%                            cheerful    0.00648
+
+             remains    0.00899%                              cherub    0.00648
+
+              repent    0.00899%                            cherubim    0.00648
+
+              reveng    0.00899%                            cherubin    0.00648
+
+                rich    0.00899%                               chest    0.00648
+
+               rises    0.00899%                               chief    0.00648
+
+               rites    0.00899%                            chiefest    0.00648
+
+               rogue    0.00899%                             chiefly    0.00648
+
+                rous    0.00899%                               child    0.00648
+
+               rouse    0.00899%                             chinese    0.00648
+
+               royal    0.00899%                            chineses    0.00648
+
+                 rul    0.00899%                          chirurgery    0.00648
+
+                sail    0.00899%                            chooseth    0.00648
+
+               saint    0.00899%                            churches    0.00648
+
+                salt    0.00899%                              chylus    0.00648
+
+               scope    0.00899%                               cider    0.00648
+
+             secrecy    0.00899%                             circles    0.00648
+
+             seeming    0.00899%                             circuit    0.00648
+
+               shake    0.00899%                            circuits    0.00648
+
+              shapes    0.00899%                         circumcised    0.00648
+
+            shoulder    0.00899%                       circumstances    0.00648
+
+               sides    0.00899%                               cited    0.00648
+
+                 sin    0.00899%                              cities    0.00648
+
+                sirs    0.00899%                            civility    0.00648
+
+                sith    0.00899%                              cleave    0.00648
+
+               skill    0.00899%                            clemency    0.00648
+
+                slow    0.00899%                               climb    0.00648
+
+             smiling    0.00899%                              clocks    0.00648
+
+                soil    0.00899%                          cloistered    0.00648
+
+             soldier    0.00899%                               close    0.00648
+
+              solemn    0.00899%                              clothe    0.00648
+
+            sometime    0.00899%                              clouds    0.00648
+
+           sometimes    0.00899%                              cloudy    0.00648
+
+                sore    0.00899%                        coagulations    0.00648
+
+                sort    0.00899%                               coats    0.00648
+
+           sovereign    0.00899%                               coeli    0.00648
+
+             special    0.00899%                                cold    0.00648
+
+              sponge    0.00899%                         collections    0.00648
+
+               sport    0.00899%                          collegiate    0.00648
+
+              spring    0.00899%                              colony    0.00648
+
+               steel    0.00899%                              colors    0.00648
+
+               stick    0.00899%                        colourations    0.00648
+
+               stole    0.00899%                            coloured    0.00648
+
+               story    0.00899%                            columbus    0.00648
+
+               stuff    0.00899%                              column    0.00648
+
+             subject    0.00899%                              comets    0.00648
+
+              suffer    0.00899%                             comfort    0.00648
+
+             suffers    0.00899%                            comforts    0.00648
+
+                suit    0.00899%                             command    0.00648
+
+               suits    0.00899%                             commend    0.00648
+
+               sworn    0.00899%                          commending    0.00648
+
+               taken    0.00899%                            commerce    0.00648
+
+                tame    0.00899%                              commit    0.00648
+
+                tear    0.00899%                         commixtures    0.00648
+
+               tempt    0.00899%                           commodity    0.00648
+
+             tenders    0.00899%                        commonwealth    0.00648
+
+               theme    0.00899%                       communicating    0.00648
+
+               thick    0.00899%                           companies    0.00648
+
+               third    0.00899%                           compelled    0.00648
+
+              thirty    0.00899%                           competent    0.00648
+
+             thither    0.00899%                           compilers    0.00648
+
+             tongues    0.00899%                           composeth    0.00648
+
+            touching    0.00899%                         composition    0.00648
+
+               trial    0.00899%                            composts    0.00648
+
+              tricks    0.00899%                             conceal    0.00648
+
+            trumpets    0.00899%                          concealing    0.00648
+
+       understanding    0.00899%                             conceit    0.00648
+
+              unfold    0.00899%                           conceived    0.00648
+
+              unless    0.00899%                            conclave    0.00648
+
+              unseen    0.00899%                           concluded    0.00648
+
+                uses    0.00899%                          concluding    0.00648
+
+                   v    0.00899%                         conclusions    0.00648
+
+               venom    0.00899%                         conditioner    0.00648
+
+                vice    0.00899%                             conduct    0.00648
+
+          visitation    0.00899%                             confess    0.00648
+
+           vouchsafe    0.00899%                          confidence    0.00648
+
+              wanton    0.00899%                          confirming    0.00648
+
+               waves    0.00899%                           confiture    0.00648
+
+                ways    0.00899%                             conform    0.00648
+
+                 wed    0.00899%                            confused    0.00648
+
+               wheel    0.00899%                           confusion    0.00648
+
+           wherefore    0.00899%                             consent    0.00648
+
+              whilst    0.00899%                        conservation    0.00648
+
+                 win    0.00899%                       conservations    0.00648
+
+               winds    0.00899%                         conservator    0.00648
+
+              wisest    0.00899%                            consider    0.00648
+
+            withdraw    0.00899%                       consideration    0.00648
+
+            wondrous    0.00899%                         considering    0.00648
+
+                wont    0.00899%                        consolations    0.00648
+
+               worse    0.00899%                            constant    0.00648
+
+               worth    0.00899%                        consultation    0.00648
+
+              wretch    0.00899%                       consultations    0.00648
+
+               years    0.00899%                          consulting    0.00648
+
+            absolute    0.00600%                            consults    0.00648
+
+              absurd    0.00600%                             contain    0.00648
+
+              accent    0.00600%                          containing    0.00648
+
+           according    0.00600%                        contemplated    0.00648
+
+             actions    0.00600%                             content    0.00648
+
+              actors    0.00600%                          contenting    0.00648
+
+                acts    0.00600%                         contentment    0.00648
+
+                adam    0.00600%                          continents    0.00648
+
+               admit    0.00600%                         continually    0.00648
+
+         advancement    0.00600%                         continuance    0.00648
+
+                afar    0.00600%                          continueth    0.00648
+
+                 aha    0.00600%                          continuing    0.00648
+
+                 aim    0.00600%                            contrary    0.00648
+
+               alarm    0.00600%                           converted    0.00648
+
+           allowance    0.00600%                              convey    0.00648
+
+               aloof    0.00600%                          copulation    0.00648
+
+           amazement    0.00600%                         copulations    0.00648
+
+          ambassador    0.00600%                                corn    0.00648
+
+               amiss    0.00600%                             corrupt    0.00648
+
+             antique    0.00600%                           corrupted    0.00648
+
+               apart    0.00600%                          corrupting    0.00648
+
+                 ape    0.00600%                                cost    0.00648
+
+          apparition    0.00600%                             counsel    0.00648
+
+             appears    0.00600%                             covered    0.00648
+
+        apprehension    0.00600%                               crave    0.00648
+
+             approve    0.00600%                             created    0.00648
+
+                 apt    0.00600%                            creation    0.00648
+
+               armed    0.00600%                            creature    0.00648
+
+                army    0.00600%                            credible    0.00648
+
+              arrant    0.00600%                            creditor    0.00648
+
+              arrows    0.00600%                            crescent    0.00648
+
+             article    0.00600%                               cries    0.00648
+
+              asking    0.00600%                             crimson    0.00648
+
+              asleep    0.00600%                             crowded    0.00648
+
+             assigns    0.00600%                             crystal    0.00648
+
+           assistant    0.00600%                            crystals    0.00648
+
+               assur    0.00600%                              curing    0.00648
+
+           assurance    0.00600%                           curiously    0.00648
+
+              author    0.00600%                              curled    0.00648
+
+               awake    0.00600%                           curtesies    0.00648
+
+                 awe    0.00600%                            cushions    0.00648
+
+                 axe    0.00600%                            cylinder    0.00648
+
+                baby    0.00600%                                   d    0.00648
+
+                 bak    0.00600%                              dances    0.00648
+
+               bands    0.00600%                             dangers    0.00648
+
+             barbary    0.00600%                                dark    0.00648
+
+                bark    0.00600%                            daughter    0.00648
+
+               baser    0.00600%                             dawning    0.00648
+
+              basket    0.00600%                                dead    0.00648
+
+                 bat    0.00600%                                deal    0.00648
+
+             bearers    0.00600%                              debtor    0.00648
+
+               bears    0.00600%                               decay    0.00648
+
+              beasts    0.00600%                             decayed    0.00648
+
+          beautified    0.00600%                              decent    0.00648
+
+             beggars    0.00600%                            decently    0.00648
+
+              begins    0.00600%                            decocted    0.00648
+
+             beguile    0.00600%                             decrees    0.00648
+
+           behaviour    0.00600%                           dedicated    0.00648
+
+              belike    0.00600%                              deeper    0.00648
+
+                bell    0.00600%                             deepest    0.00648
+
+              beware    0.00600%                             defects    0.00648
+
+              beyond    0.00600%                              defend    0.00648
+
+                bird    0.00600%                         deflowering    0.00648
+
+               blank    0.00600%                              defray    0.00648
+
+               blast    0.00600%                         deliverance    0.00648
+
+             blasted    0.00600%                           delusions    0.00648
+
+               bleed    0.00600%                       demonstration    0.00648
+
+               blest    0.00600%                              denial    0.00648
+
+               blown    0.00600%                          denominate    0.00648
+
+               blows    0.00600%                              depart    0.00648
+
+               blush    0.00600%                            departed    0.00648
+
+              breaks    0.00600%                            depraved    0.00648
+
+           breathing    0.00600%                         depredators    0.00648
+
+               breed    0.00600%                              depths    0.00648
+
+            breeding    0.00600%                           described    0.00648
+
+               broad    0.00600%                         description    0.00648
+
+               broke    0.00600%                            desiring    0.00648
+
+               brook    0.00600%                            desolate    0.00648
+
+            brothers    0.00600%                              detain    0.00648
+
+               brows    0.00600%                         detestation    0.00648
+
+              builds    0.00600%                            devoutly    0.00648
+
+                bulk    0.00600%                                dies    0.00648
+
+                burn    0.00600%                                diet    0.00648
+
+             burning    0.00600%                              differ    0.00648
+
+               burns    0.00600%                           different    0.00648
+
+                buzz    0.00600%                              digged    0.00648
+
+              caesar    0.00600%                             digress    0.00648
+
+                calm    0.00600%                              direct    0.00648
+
+               camel    0.00600%                           direction    0.00648
+
+              canker    0.00600%                        discomforted    0.00648
+
+             capable    0.00600%                             discord    0.00648
+
+             capital    0.00600%                          discourses    0.00648
+
+             captain    0.00600%                           discovery    0.00648
+
+                card    0.00600%                          discretion    0.00648
+
+           carpenter    0.00600%                            disguise    0.00648
+
+            carrying    0.00600%                             dislike    0.00648
+
+               catch    0.00600%                           dismissed    0.00648
+
+              caught    0.00600%                           disobeyed    0.00648
+
+           celestial    0.00600%                            disorder    0.00648
+
+              chance    0.00600%                          dispatched    0.00648
+
+             chances    0.00600%                      dispensatories    0.00648
+
+              chapel    0.00600%                           displayed    0.00648
+
+           character    0.00600%                         disposition    0.00648
+
+          charitable    0.00600%                         dissections    0.00648
+
+               cheek    0.00600%                       distillations    0.00648
+
+          cheerfully    0.00600%                          distinctly    0.00648
+
+               child    0.00600%                            distrust    0.00648
+
+              choler    0.00600%                         diversities    0.00648
+
+              church    0.00600%                           diversity    0.00648
+
+                city    0.00600%                             divided    0.00648
+
+              clowns    0.00600%                                door    0.00648
+
+              coldly    0.00600%                               doors    0.00648
+
+           collected    0.00600%                             dorture    0.00648
+
+          collection    0.00600%                                dost    0.00648
+
+                 com    0.00600%                               doubt    0.00648
+
+              comedy    0.00600%                            doubtful    0.00648
+
+             comical    0.00600%                            doubting    0.00648
+
+              comply    0.00600%                                dove    0.00648
+
+             confine    0.00600%                           downwards    0.00648
+
+            confound    0.00600%                               dowry    0.00648
+
+           contagion    0.00600%                               dozen    0.00648
+
+           continent    0.00600%                             drawing    0.00648
+
+            contrive    0.00600%                               dream    0.00648
+
+             convert    0.00600%                              dreams    0.00648
+
+                cost    0.00600%                             drowned    0.00648
+
+               couch    0.00600%                               drugs    0.00648
+
+              coward    0.00600%                              ducats    0.00648
+
+               crack    0.00600%                                dull    0.00648
+
+               craft    0.00600%                               dungs    0.00648
+
+            creature    0.00600%                               dwarf    0.00648
+
+                crew    0.00600%                           dwellings    0.00648
+
+             crowner    0.00600%                                each    0.00648
+
+               cruel    0.00600%                             earlier    0.00648
+
+            currents    0.00600%                               early    0.00648
+
+                 cut    0.00600%                          earthquake    0.00648
+
+             daggers    0.00600%                                ease    0.00648
+
+                 dar    0.00600%                             eastern    0.00648
+
+             dearest    0.00600%                                easy    0.00648
+
+              dearly    0.00600%                              echoes    0.00648
+
+              defeat    0.00600%                           effecting    0.00648
+
+              defect    0.00600%                               egypt    0.00648
+
+             defence    0.00600%                            egyptian    0.00648
+
+               delay    0.00600%                               eight    0.00648
+
+            delicate    0.00600%                               eliah    0.00648
+
+              demand    0.00600%                               elias    0.00648
+
+             demands    0.00600%                                else    0.00648
+
+                deny    0.00600%                        embracements    0.00648
+
+             depends    0.00600%                            emeralds    0.00648
+
+              desert    0.00600%                            eminence    0.00648
+
+                desp    0.00600%                             eminent    0.00648
+
+         desperation    0.00600%                              empire    0.00648
+
+             destroy    0.00600%                            employed    0.00648
+
+              diadem    0.00600%                              enable    0.00648
+
+                diet    0.00600%                          enclosures    0.00648
+
+          difference    0.00600%                          encouraged    0.00648
+
+                 dig    0.00600%                              endeth    0.00648
+
+             dignity    0.00600%                            enflamed    0.00648
+
+            directly    0.00600%                           enforcing    0.00648
+
+                dirt    0.00600%                           enlarging    0.00648
+
+             disclos    0.00600%                              ensign    0.00648
+
+           dishonour    0.00600%                             entered    0.00648
+
+              dismal    0.00600%                         enterprises    0.00648
+
+         distraction    0.00600%                        entertaining    0.00648
+
+            distrust    0.00600%                       entertainment    0.00648
+
+              divide    0.00600%                              entire    0.00648
+
+            divinity    0.00600%                            entoiled    0.00648
+
+                 dog    0.00600%                           environed    0.00648
+
+                doom    0.00600%                            equality    0.00648
+
+            doubtful    0.00600%                               erect    0.00648
+
+                dove    0.00600%                            erection    0.00648
+
+               drive    0.00600%                                 err    0.00648
+
+               eager    0.00600%                              errand    0.00648
+
+            easiness    0.00600%                             escaped    0.00648
+
+                easy    0.00600%                            especial    0.00648
+
+                eats    0.00600%                         established    0.00648
+
+             effects    0.00600%                            european    0.00648
+
+                  em    0.00600%                          evangelism    0.00648
+
+             embrace    0.00600%                                 eve    0.00648
+
+              empire    0.00600%                             evening    0.00648
+
+          employment    0.00600%                         everlasting    0.00648
+
+               enact    0.00600%                               evils    0.00648
+
+                ends    0.00600%                               exact    0.00648
+
+             enemies    0.00600%                             example    0.00648
+
+          enterprise    0.00600%                           exceedest    0.00648
+
+            entreaty    0.00600%                           exceeding    0.00648
+
+                envy    0.00600%                         excellently    0.00648
+
+             epitaph    0.00600%                           exception    0.00648
+
+               equal    0.00600%                             excused    0.00648
+
+              escape    0.00600%                             execute    0.00648
+
+          especially    0.00600%                           execution    0.00648
+
+             eternal    0.00600%                          exemptions    0.00648
+
+               event    0.00600%                         expectation    0.00648
+
+          everything    0.00600%                            expected    0.00648
+
+            exchange    0.00600%                           expedited    0.00648
+
+            exercise    0.00600%                         expeditions    0.00648
+
+               expel    0.00600%                          experience    0.00648
+
+           extremity    0.00600%                         experiences    0.00648
+
+               faces    0.00600%                             expired    0.00648
+
+           faculties    0.00600%                             express    0.00648
+
+             falling    0.00600%                            expulsed    0.00648
+
+                fame    0.00600%                           exquisite    0.00648
+
+               fares    0.00600%                         exquisitely    0.00648
+
+                farm    0.00600%                           extenuate    0.00648
+
+                fate    0.00600%                       extraordinary    0.00648
+
+               fates    0.00600%                            fabulous    0.00648
+
+             fathers    0.00600%                              failed    0.00648
+
+             favours    0.00600%                               faith    0.00648
+
+               fears    0.00600%                           fallacies    0.00648
+
+             feature    0.00600%                              fallen    0.00648
+
+                 fed    0.00600%                               false    0.00648
+
+                feet    0.00600%                                fame    0.00648
+
+          fellowship    0.00600%                            familiar    0.00648
+
+               fetch    0.00600%                          familiarly    0.00648
+
+            fighting    0.00600%                              famous    0.00648
+
+               fines    0.00600%                            fastened    0.00648
+
+              finger    0.00600%                             fathers    0.00648
+
+                fish    0.00600%                              fathom    0.00648
+
+          fishmonger    0.00600%                                fear    0.00648
+
+                fits    0.00600%                             fearing    0.00648
+
+               flame    0.00600%                               fears    0.00648
+
+              flames    0.00600%                              feasts    0.00648
+
+             flaming    0.00600%                               feats    0.00648
+
+             flatter    0.00600%                       fermentations    0.00648
+
+                 foe    0.00600%                           fertility    0.00648
+
+                foil    0.00600%                              fierce    0.00648
+
+            followed    0.00600%                          fierceness    0.00648
+
+                food    0.00600%                               fiery    0.00648
+
+               fools    0.00600%                             figures    0.00648
+
+              forbid    0.00600%                              finely    0.00648
+
+                forc    0.00600%                            fineness    0.00648
+
+            forehead    0.00600%                               finer    0.00648
+
+             forgive    0.00600%                               fines    0.00648
+
+              former    0.00600%                              finger    0.00648
+
+            fortunes    0.00600%                               fires    0.00648
+
+               forty    0.00600%                           fireworks    0.00648
+
+           francisco    0.00600%                           firmament    0.00648
+
+             frankly    0.00600%                             fishing    0.00648
+
+               fruit    0.00600%                             fittest    0.00648
+
+                gain    0.00600%                              flames    0.00648
+
+                gait    0.00600%                               flaws    0.00648
+
+               galls    0.00600%                              fleets    0.00648
+
+              garden    0.00600%                             fleshes    0.00648
+
+                gent    0.00600%                            flexible    0.00648
+
+              gentry    0.00600%                          flightshot    0.00648
+
+               glass    0.00600%                               flood    0.00648
+
+               glean    0.00600%                              floods    0.00648
+
+            goodness    0.00600%                         flourishing    0.00648
+
+                 got    0.00600%                                flow    0.00648
+
+              graces    0.00600%                             flowers    0.00648
+
+             grapple    0.00600%                              follow    0.00648
+
+               grass    0.00600%                            followed    0.00648
+
+              graves    0.00600%                                food    0.00648
+
+              grieve    0.00600%                             foolish    0.00648
+
+               guest    0.00600%                             footmen    0.00648
+
+                guts    0.00600%                           forasmuch    0.00648
+
+             happily    0.00600%                          forbidding    0.00648
+
+              harlot    0.00600%                               force    0.00648
+
+                 hat    0.00600%                              forced    0.00648
+
+               hatch    0.00600%                           foreigner    0.00648
+
+              having    0.00600%                            foremost    0.00648
+
+               heads    0.00600%                            forenoon    0.00648
+
+             hearers    0.00600%                           foresight    0.00648
+
+              hearts    0.00600%                              forgot    0.00648
+
+            heavenly    0.00600%                         fornication    0.00648
+
+                heed    0.00600%                             fortune    0.00648
+
+                heel    0.00600%                            fortunes    0.00648
+
+                held    0.00600%                             fossils    0.00648
+
+            heraldry    0.00600%                                foul    0.00648
+
+                 hey    0.00600%                            foulness    0.00648
+
+                 hid    0.00600%                             founder    0.00648
+
+             hideous    0.00600%                           fountains    0.00648
+
+             history    0.00600%                            fourthly    0.00648
+
+            hitherto    0.00600%                                fowl    0.00648
+
+               hobby    0.00600%                             francis    0.00648
+
+                holy    0.00600%                             fraught    0.00648
+
+              horrid    0.00600%                             freedom    0.00648
+
+            horridly    0.00600%                            frequent    0.00648
+
+              horses    0.00600%                          frequented    0.00648
+
+               hours    0.00600%                            fretting    0.00648
+
+                 hum    0.00600%                              friend    0.00648
+
+             hundred    0.00600%                         friendships    0.00648
+
+                hurt    0.00600%                               frogs    0.00648
+
+               hurts    0.00600%                               front    0.00648
+
+            hyperion    0.00600%                           functions    0.00648
+
+                 ice    0.00600%                         fundamental    0.00648
+
+           immediate    0.00600%                             furnace    0.00648
+
+            imminent    0.00600%                            furnaces    0.00648
+
+               impon    0.00600%                           furnished    0.00648
+
+              incens    0.00600%                              gained    0.00648
+
+         inclination    0.00600%                           galleries    0.00648
+
+              inform    0.00600%                             galleys    0.00648
+
+          instrument    0.00600%                             garment    0.00648
+
+              intent    0.00600%                             general    0.00648
+
+               issue    0.00600%                            generate    0.00648
+
+            jealousy    0.00600%                          generative    0.00648
+
+                join    0.00600%                              gentle    0.00648
+
+               joint    0.00600%                            geometry    0.00648
+
+                 jot    0.00600%                                 get    0.00648
+
+                jove    0.00600%                                gift    0.00648
+
+                joys    0.00600%                               gifts    0.00648
+
+              julius    0.00600%                              girdle    0.00648
+
+                jump    0.00600%                             girdles    0.00648
+
+                just    0.00600%                              giveth    0.00648
+
+                keen    0.00600%                              giving    0.00648
+
+                 kin    0.00600%                                glad    0.00648
+
+               kings    0.00600%                              gladly    0.00648
+
+             kissing    0.00600%                             glimpse    0.00648
+
+             knavery    0.00600%                              glossy    0.00648
+
+             knavish    0.00600%                              gloves    0.00648
+
+              kneels    0.00600%                               goats    0.00648
+
+               knees    0.00600%                               goeth    0.00648
+
+               knock    0.00600%                              golden    0.00648
+
+             knowing    0.00600%                              goodly    0.00648
+
+                 lap    0.00600%                            goodness    0.00648
+
+              larded    0.00600%                               goods    0.00648
+
+             lasting    0.00600%                            grafting    0.00648
+
+             lawless    0.00600%                               grain    0.00648
+
+              laying    0.00600%                               grape    0.00648
+
+               leaps    0.00600%                                gray    0.00648
+
+               least    0.00600%                           greatness    0.00648
+
+                 led    0.00600%                               greek    0.00648
+
+               level    0.00600%                            greenish    0.00648
+
+              levies    0.00600%                                grew    0.00648
+
+               limbs    0.00600%                             grounds    0.00648
+
+                line    0.00600%                             groweth    0.00648
+
+                lips    0.00600%                               grown    0.00648
+
+              liquor    0.00600%                               guard    0.00648
+
+                 liv    0.00600%                               guide    0.00648
+
+              living    0.00600%                                 gun    0.00648
+
+                loam    0.00600%                           gunpowder    0.00648
+
+               lobby    0.00600%                           habitable    0.00648
+
+               loose    0.00600%                         habitations    0.00648
+
+               loved    0.00600%                               hairy    0.00648
+
+            lucianus    0.00600%                                halo    0.00648
+
+              lunacy    0.00600%                             handled    0.00648
+
+               lungs    0.00600%                              hanged    0.00648
+
+                lust    0.00600%                             hanging    0.00648
+
+             maggots    0.00600%                                 hap    0.00648
+
+              maiden    0.00600%                             happily    0.00648
+
+               maids    0.00600%                                hard    0.00648
+
+          majestical    0.00600%                           hardiness    0.00648
+
+           majesties    0.00600%                              hardly    0.00648
+
+           malicious    0.00600%                           harmonies    0.00648
+
+             manners    0.00600%                               haste    0.00648
+
+                mars    0.00600%                              hasten    0.00648
+
+               mason    0.00600%                               hasty    0.00648
+
+              master    0.00600%                                hats    0.00648
+
+               match    0.00600%                            haunting    0.00648
+
+             matters    0.00600%                               haven    0.00648
+
+             meeting    0.00600%                                hays    0.00648
+
+          melancholy    0.00600%                              headed    0.00648
+
+                melt    0.00600%                             healing    0.00648
+
+              merely    0.00600%                             hearing    0.00648
+
+               merit    0.00600%                             heavens    0.00648
+
+               merry    0.00600%                              hebrew    0.00648
+
+              method    0.00600%                              height    0.00648
+
+              middle    0.00600%                             heights    0.00648
+
+              mighty    0.00600%                              helmet    0.00648
+
+               minds    0.00600%                                help    0.00648
+
+              mirror    0.00600%                                 hem    0.00648
+
+               mirth    0.00600%                               hence    0.00648
+
+           mischance    0.00600%                               henna    0.00648
+
+                mole    0.00600%                                 her    0.00648
+
+              moment    0.00600%                            hercules    0.00648
+
+               money    0.00600%                           hereafter    0.00648
+
+               mount    0.00600%                            hereupon    0.00648
+
+           mountains    0.00600%                              hermit    0.00648
+
+               mourn    0.00600%                            heroical    0.00648
+
+               mouse    0.00600%                                hide    0.00648
+
+               moves    0.00600%                          hierusalem    0.00648
+
+               muddy    0.00600%                               hills    0.00648
+
+                murd    0.00600%                              hinder    0.00648
+
+               mutes    0.00600%                             history    0.00648
+
+               naked    0.00600%                            hitherto    0.00648
+
+              naught    0.00600%                               honey    0.00648
+
+                  ne    0.00600%                             honored    0.00648
+
+              nearer    0.00600%                          honourable    0.00648
+
+           necessary    0.00600%                                hook    0.00648
+
+           neglected    0.00600%                                hope    0.00648
+
+           neighbour    0.00600%                            horsemen    0.00648
+
+             neptune    0.00600%                              horses    0.00648
+
+              norman    0.00600%                               hours    0.00648
+
+               north    0.00600%                                huge    0.00648
+
+                nose    0.00600%                                huke    0.00648
+
+             numbers    0.00600%                              humble    0.00648
+
+                oath    0.00600%                          humbleness    0.00648
+
+           obedience    0.00600%                                hurt    0.00648
+
+          obligation    0.00600%                             hurtful    0.00648
+
+          observance    0.00600%                                hymn    0.00648
+
+                 odd    0.00600%                               hymns    0.00648
+
+                ones    0.00600%                            ignominy    0.00648
+
+            opinions    0.00600%                           ignorance    0.00648
+
+          opposition    0.00600%                            ignorant    0.00648
+
+             orchard    0.00600%                        illumination    0.00648
+
+            ordnance    0.00600%                               image    0.00648
+
+              origin    0.00600%                              images    0.00648
+
+                ours    0.00600%                            imbossed    0.00648
+
+             outward    0.00600%                          imitations    0.00648
+
+            overdone    0.00600%                         immediately    0.00648
+
+                pace    0.00600%                              impart    0.00648
+
+             painted    0.00600%                           imperfect    0.00648
+
+                pair    0.00600%                           imploring    0.00648
+
+                palm    0.00600%                            imported    0.00648
+
+               paper    0.00600%                          imposition    0.00648
+
+          passionate    0.00600%                          impossible    0.00648
+
+             pastime    0.00600%                              impure    0.00648
+
+               patch    0.00600%                              inbred    0.00648
+
+             peasant    0.00600%                        inclinations    0.00648
+
+                peep    0.00600%                         incorporate    0.00648
+
+             perfume    0.00600%                           increased    0.00648
+
+           pestilent    0.00600%                             indians    0.00648
+
+               petty    0.00600%                         indifferent    0.00648
+
+          philosophy    0.00600%                              induce    0.00648
+
+             picture    0.00600%                             induced    0.00648
+
+                plac    0.00600%                         indurations    0.00648
+
+              plague    0.00600%                        inequalities    0.00648
+
+             playing    0.00600%                               inert    0.00648
+
+               pleas    0.00600%                           infection    0.00648
+
+           pleasures    0.00600%                          infectious    0.00648
+
+               plots    0.00600%                            inferior    0.00648
+
+              plucks    0.00600%                          infidelity    0.00648
+
+              points    0.00600%                           infirmary    0.00648
+
+            poisoner    0.00600%                           infusions    0.00648
+
+                pole    0.00600%                         ingredients    0.00648
+
+             possess    0.00600%                             inherit    0.00648
+
+              potent    0.00600%                         inheritance    0.00648
+
+                pour    0.00600%                          inheritors    0.00648
+
+               pours    0.00600%                             inkling    0.00648
+
+               prais    0.00600%                         inoculating    0.00648
+
+              praise    0.00600%                         inoculators    0.00648
+
+              prayer    0.00600%                         inscrutable    0.00648
+
+             prayers    0.00600%                           insinuate    0.00648
+
+           precedent    0.00600%                          insolation    0.00648
+
+            precious    0.00600%                             instead    0.00648
+
+            pregnant    0.00600%                         instituting    0.00648
+
+              pretty    0.00600%                            instruct    0.00648
+
+             prevent    0.00600%                         insulations    0.00648
+
+               prick    0.00600%                        intelligence    0.00648
+
+            prisoner    0.00600%                              intend    0.00648
+
+             proceed    0.00600%                          intentions    0.00648
+
+           proclaims    0.00600%                               inter    0.00648
+
+            prodigal    0.00600%                          interdicts    0.00648
+
+            profound    0.00600%                          intermarry    0.00648
+
+              promis    0.00600%                      interpretation    0.00648
+
+             promise    0.00600%                        interpreters    0.00648
+
+            pronounc    0.00600%                           interview    0.00648
+
+              proper    0.00600%                         intolerable    0.00648
+
+            prophesy    0.00600%                         inundations    0.00648
+
+             propose    0.00600%                            inverted    0.00648
+
+          providence    0.00600%                           inviolate    0.00648
+
+                puff    0.00600%                             invited    0.00648
+
+              punish    0.00600%                                iron    0.00648
+
+             purging    0.00600%                               issue    0.00648
+
+              purpos    0.00600%                               japan    0.00648
+
+              pursue    0.00600%                                jaws    0.00648
+
+             quarrel    0.00600%                              jewels    0.00648
+
+                quit    0.00600%                              jewish    0.00648
+
+                rain    0.00600%                              joabin    0.00648
+
+              ranker    0.00600%                               jonas    0.00648
+
+             reading    0.00600%                              joyful    0.00648
+
+             reasons    0.00600%                            juggling    0.00648
+
+          rebellious    0.00600%                               junks    0.00648
+
+          recoveries    0.00600%                                just    0.00648
+
+              reform    0.00600%                               karan    0.00648
+
+              regard    0.00600%                             keeping    0.00648
+
+              region    0.00600%                             kenning    0.00648
+
+              reliev    0.00600%                             kernels    0.00648
+
+              relish    0.00600%                              kindly    0.00648
+
+              remain    0.00600%                            kindness    0.00648
+
+              remove    0.00600%                            kingdoms    0.00648
+
+                rend    0.00600%                               kings    0.00648
+
+              repair    0.00600%                                kiss    0.00648
+
+               reply    0.00600%                              kissed    0.00648
+
+             requite    0.00600%                            kitchens    0.00648
+
+             respect    0.00600%                                knee    0.00648
+
+               rests    0.00600%                             kneeled    0.00648
+
+             returns    0.00600%                            kneeleth    0.00648
+
+             rewards    0.00600%                               knees    0.00648
+
+             rhenish    0.00600%                                knit    0.00648
+
+              richer    0.00600%                                lads    0.00648
+
+              rights    0.00600%                               lakes    0.00648
+
+                rise    0.00600%                               lamps    0.00648
+
+                roar    0.00600%                              landed    0.00648
+
+               roman    0.00600%                             landing    0.00648
+
+                rome    0.00600%                            lanthorn    0.00648
+
+              rotten    0.00600%                           largesses    0.00648
+
+             roughly    0.00600%                             lasteth    0.00648
+
+                 rub    0.00600%                                late    0.00648
+
+                rude    0.00600%                               later    0.00648
+
+                 rue    0.00600%                               latin    0.00648
+
+              rugged    0.00600%                              lawful    0.00648
+
+                 run    0.00600%                            lawfully    0.00648
+
+                runs    0.00600%                                lawn    0.00648
+
+               sable    0.00600%                              layeth    0.00648
+
+              sables    0.00600%                                lead    0.00648
+
+                safe    0.00600%                              leaded    0.00648
+
+              safely    0.00600%                             leaning    0.00648
+
+              sailor    0.00600%                          leavenings    0.00648
+
+             sailors    0.00600%                              leaves    0.00648
+
+           salvation    0.00600%                                 leg    0.00648
+
+                sate    0.00600%                              lesser    0.00648
+
+              sblood    0.00600%                                lest    0.00648
+
+               scale    0.00600%                             libanus    0.00648
+
+             scandal    0.00600%                           libertine    0.00648
+
+               scape    0.00600%                             license    0.00648
+
+              scarce    0.00600%                                 lie    0.00648
+
+            scarcely    0.00600%                                lies    0.00648
+
+             scholar    0.00600%                                lift    0.00648
+
+             scourge    0.00600%                              lifted    0.00648
+
+           scripture    0.00600%                          lightnings    0.00648
+
+                seat    0.00600%                              lights    0.00648
+
+              secure    0.00600%                            likeness    0.00648
+
+               seeks    0.00600%                              liketh    0.00648
+
+                sees    0.00600%                                lime    0.00648
+
+                self    0.00600%                              litter    0.00648
+
+             sending    0.00600%                               lives    0.00648
+
+           senseless    0.00600%                          loadstones    0.00648
+
+             serpent    0.00600%                                loft    0.00648
+
+                serv    0.00600%                               loose    0.00648
+
+             servant    0.00600%                                 lot    0.00648
+
+            servants    0.00600%                                loud    0.00648
+
+               serve    0.00600%                              louder    0.00648
+
+              serves    0.00600%                               lowly    0.00648
+
+                sets    0.00600%                              lustre    0.00648
+
+             settled    0.00600%                             magical    0.00648
+
+              sexton    0.00600%                           magicians    0.00648
+
+                ship    0.00600%                         magnificent    0.00648
+
+          shipwright    0.00600%                          magnitudes    0.00648
+
+               shoes    0.00600%                                main    0.00648
+
+            shouldst    0.00600%                             majesty    0.00648
+
+               shown    0.00600%                               makes    0.00648
+
+           shuffling    0.00600%                                male    0.00648
+
+              sickly    0.00600%                            manifest    0.00648
+
+            sickness    0.00600%                          manifested    0.00648
+
+                side    0.00600%                            manifold    0.00648
+
+             signify    0.00600%                               manna    0.00648
+
+              sinews    0.00600%                             mantles    0.00648
+
+              single    0.00600%                        manufactures    0.00648
+
+             slander    0.00600%                              marble    0.00648
+
+           slaughter    0.00600%                           masculine    0.00648
+
+            slightly    0.00600%                        mathematical    0.00648
+
+               smile    0.00600%                                maws    0.00648
+
+              smooth    0.00600%                              meaner    0.00648
+
+               songs    0.00600%                             meanest    0.00648
+
+              sooner    0.00600%                             meaneth    0.00648
+
+              source    0.00600%                             meaning    0.00648
+
+               spoke    0.00600%                           meanwhile    0.00648
+
+              spoken    0.00600%                           medicinal    0.00648
+
+              spokes    0.00600%                            meetings    0.00648
+
+              spread    0.00600%                              mended    0.00648
+
+              spurns    0.00600%                            merchant    0.00648
+
+               stamp    0.00600%                           merchants    0.00648
+
+             station    0.00600%                        meretricious    0.00648
+
+               steep    0.00600%                               merit    0.00648
+
+                step    0.00600%                             merrily    0.00648
+
+               sting    0.00600%                           methought    0.00648
+
+               stone    0.00600%                              mexico    0.00648
+
+               stops    0.00600%                                 mid    0.00648
+
+           strangely    0.00600%                              milken    0.00648
+
+               straw    0.00600%                               milks    0.00648
+
+             streets    0.00600%                               minds    0.00648
+
+            strength    0.00600%                              miners    0.00648
+
+               strew    0.00600%                               mines    0.00648
+
+              strict    0.00600%                              mirror    0.00648
+
+              strike    0.00600%                            missions    0.00648
+
+            strumpet    0.00600%                                monk    0.00648
+
+           substance    0.00600%                             montera    0.00648
+
+          succession    0.00600%                               month    0.00648
+
+                suck    0.00600%                           mortified    0.00648
+
+                suff    0.00600%                               moses    0.00648
+
+              sultry    0.00600%                                moss    0.00648
+
+                 sum    0.00600%                              mother    0.00648
+
+              summit    0.00600%                             moulded    0.00648
+
+              supper    0.00600%                         mountainous    0.00648
+
+            suppress    0.00600%                            mounteth    0.00648
+
+            swearing    0.00600%                              mouths    0.00648
+
+               sweat    0.00600%                            moveable    0.00648
+
+               sweep    0.00600%                               mulct    0.00648
+
+               swift    0.00600%                         multiplying    0.00648
+
+             swounds    0.00600%                             muskets    0.00648
+
+                  ta    0.00600%                              mutual    0.00648
+
+              tables    0.00600%                              myself    0.00648
+
+               tardy    0.00600%                             mystery    0.00648
+
+                 tax    0.00600%                            nachoran    0.00648
+
+             tedious    0.00600%                              namely    0.00648
+
+               teeth    0.00600%                           narration    0.00648
+
+                term    0.00600%                             natives    0.00648
+
+              throne    0.00600%                            nativity    0.00648
+
+              thrown    0.00600%                           navigable    0.00648
+
+              throws    0.00600%                         navigations    0.00648
+
+             thunder    0.00600%                                navy    0.00648
+
+                 toe    0.00600%                             nearest    0.00648
+
+                 toy    0.00600%                                neat    0.00648
+
+               trace    0.00600%                           necessity    0.00648
+
+               trade    0.00600%                              needed    0.00648
+
+             tragedy    0.00600%                             neptune    0.00648
+
+            tragical    0.00600%                                 net    0.00648
+
+               trail    0.00600%                               nitre    0.00648
+
+           translate    0.00600%                             noblest    0.00648
+
+              travel    0.00600%                               notes    0.00648
+
+         treacherous    0.00600%                     notwithstanding    0.00648
+
+           treachery    0.00600%                             nourish    0.00648
+
+              treble    0.00600%                          nourishing    0.00648
+
+                tree    0.00600%                           novelties    0.00648
+
+             tremble    0.00600%                             novices    0.00648
+
+             tribute    0.00600%                           obedience    0.00648
+
+             trouble    0.00600%                                obey    0.00648
+
+            troubles    0.00600%                         observation    0.00648
+
+              truant    0.00600%                            observed    0.00648
+
+               trust    0.00600%                              obtain    0.00648
+
+                tune    0.00600%                           obtaining    0.00648
+
+                tush    0.00600%                            occasion    0.00648
+
+               twain    0.00600%                               ocean    0.00648
+
+               twixt    0.00600%                               odour    0.00648
+
+             unbated    0.00600%                             offence    0.00648
+
+             unction    0.00600%                              offers    0.00648
+
+           undertake    0.00600%                            officers    0.00648
+
+               union    0.00600%                             offices    0.00648
+
+             unknown    0.00600%                               oiled    0.00648
+
+            unworthy    0.00600%                             omitted    0.00648
+
+               usurp    0.00600%                                once    0.00648
+
+                 utt    0.00600%                                ones    0.00648
+
+           valentine    0.00600%                              opened    0.00648
+
+             valiant    0.00600%                           operation    0.00648
+
+             vantage    0.00600%                             oranges    0.00648
+
+            variable    0.00600%                                orbs    0.00648
+
+           vengeance    0.00600%                           ordinance    0.00648
+
+                view    0.00600%                            oriental    0.00648
+
+             violets    0.00600%                          originally    0.00648
+
+             virtues    0.00600%                               ought    0.00648
+
+                volt    0.00600%                                outs    0.00648
+
+            vouchers    0.00600%                                oval    0.00648
+
+                 vow    0.00600%                            overtook    0.00648
+
+              voyage    0.00600%                                oï¿½    0.00648
+
+              vulgar    0.00600%                              paguin    0.00648
+
+                 wag    0.00600%                                pain    0.00648
+
+                wait    0.00600%                              palace    0.00648
+
+               walks    0.00600%                           palestine    0.00648
+
+                want    0.00600%                              panels    0.00648
+
+               wants    0.00600%                              papers    0.00648
+
+                 war    0.00600%                            paradise    0.00648
+
+                wars    0.00600%                              parent    0.00648
+
+                wary    0.00600%                               parks    0.00648
+
+                wash    0.00600%                           partakers    0.00648
+
+                 wax    0.00600%                          partitions    0.00648
+
+               waxes    0.00600%                            patience    0.00648
+
+                weak    0.00600%                               peach    0.00648
+
+            weakness    0.00600%                         penetrating    0.00648
+
+              weapon    0.00600%                          perceiving    0.00648
+
+               wears    0.00600%                        percolations    0.00648
+
+               weary    0.00600%                           perdition    0.00648
+
+              weasel    0.00600%                             perfect    0.00648
+
+                west    0.00600%                           perfected    0.00648
+
+               whale    0.00600%                           perfectly    0.00648
+
+             whereof    0.00600%                             perform    0.00648
+
+              whiles    0.00600%                             perfume    0.00648
+
+               whips    0.00600%                             perhaps    0.00648
+
+             whisper    0.00600%                              perish    0.00648
+
+            whoreson    0.00600%                          permission    0.00648
+
+              wildly    0.00600%                              permit    0.00648
+
+             willing    0.00600%                           perpetual    0.00648
+
+           willingly    0.00600%                          perpetuity    0.00648
+
+                wine    0.00600%                           perplexed    0.00648
+
+               wings    0.00600%                           persevere    0.00648
+
+                wipe    0.00600%                             persian    0.00648
+
+                wise    0.00600%                         perspective    0.00648
+
+              wisely    0.00600%                           pertinent    0.00648
+
+          witchcraft    0.00600%                         phoenicians    0.00648
+
+             witness    0.00600%                              physic    0.00648
+
+           wittingly    0.00600%                             picture    0.00648
+
+           wonderful    0.00600%                               piece    0.00648
+
+              wonted    0.00600%                               piety    0.00648
+
+             working    0.00600%                          pilgrimage    0.00648
+
+            wormwood    0.00600%                             pillars    0.00648
+
+             wounded    0.00600%                              pilots    0.00648
+
+              wounds    0.00600%                            pioneers    0.00648
+
+               wrote    0.00600%                               pious    0.00648
+
+               yield    0.00600%                               pipes    0.00648
+
+              yonder    0.00600%                             pirates    0.00648
+
+              yorick    0.00600%                              pitied    0.00648
+
+               abate    0.00300%                             plagues    0.00648
+
+          abatements    0.00300%                               plain    0.00648
+
+            abhorred    0.00300%                             plainly    0.00648
+
+             ability    0.00300%                               plant    0.00648
+
+                able    0.00300%                             planted    0.00648
+
+          abominably    0.00300%                             pleased    0.00648
+
+          abridgment    0.00300%                            pleaseth    0.00648
+
+              abroad    0.00300%                            pleasure    0.00648
+
+              absent    0.00300%                         plentifully    0.00648
+
+          abstinence    0.00300%                              plumes    0.00648
+
+            abstract    0.00300%                           plurality    0.00648
+
+                abus    0.00300%                               plush    0.00648
+
+               abuse    0.00300%                            poetical    0.00648
+
+              abuses    0.00300%                             poisons    0.00648
+
+             accepts    0.00300%                           pollution    0.00648
+
+              access    0.00300%                            polygamy    0.00648
+
+          accidental    0.00300%                                pool    0.00648
+
+           accidents    0.00300%                          porcellain    0.00648
+
+              accord    0.00300%                             portion    0.00648
+
+             account    0.00300%                           posterity    0.00648
+
+           accounted    0.00300%                             posture    0.00648
+
+             accurst    0.00300%                                posy    0.00648
+
+              accuse    0.00300%                                pour    0.00648
+
+                ache    0.00300%                              powder    0.00648
+
+        achievements    0.00300%                               power    0.00648
+
+            acquaint    0.00300%                              powers    0.00648
+
+             acquire    0.00300%                           practique    0.00648
+
+         acquittance    0.00300%                              praise    0.00648
+
+               acres    0.00300%                             praises    0.00648
+
+              across    0.00300%                              prayer    0.00648
+
+               acted    0.00300%                                 pre    0.00648
+
+              acting    0.00300%                            precious    0.00648
+
+            actively    0.00300%                             precise    0.00648
+
+              adders    0.00300%                        preposterous    0.00648
+
+            addicted    0.00300%                             presage    0.00648
+
+             address    0.00300%                            presence    0.00648
+
+             adheres    0.00300%                          presenting    0.00648
+
+              adjoin    0.00300%                        preservation    0.00648
+
+           admirable    0.00300%                        preservative    0.00648
+
+          admittance    0.00300%                           preserved    0.00648
+
+            adoption    0.00300%                          preserving    0.00648
+
+          adulterate    0.00300%                             preside    0.00648
+
+              advanc    0.00300%                             presume    0.00648
+
+           advantage    0.00300%                             prevent    0.00648
+
+         adventurous    0.00300%                           prevented    0.00648
+
+              advise    0.00300%                          prevention    0.00648
+
+              aeneas    0.00300%                               prime    0.00648
+
+              afeard    0.00300%                              prince    0.00648
+
+             affairs    0.00300%                            printing    0.00648
+
+         affectation    0.00300%                              prisms    0.00648
+
+          affections    0.00300%                          privileges    0.00648
+
+             afflict    0.00300%                               privy    0.00648
+
+            afflicts    0.00300%                            probably    0.00648
+
+          affrighted    0.00300%                          proceedeth    0.00648
+
+             affront    0.00300%                          prodigious    0.00648
+
+               afoot    0.00300%                             produce    0.00648
+
+              afraid    0.00300%                            produced    0.00648
+
+           afternoon    0.00300%                           produceth    0.00648
+
+          afterwards    0.00300%                           professed    0.00648
+
+                 ago    0.00300%                          profitable    0.00648
+
+            agreeing    0.00300%                          progresses    0.00648
+
+                 aid    0.00300%                         prohibition    0.00648
+
+                airs    0.00300%                        prohibitions    0.00648
+
+                airy    0.00300%                             promise    0.00648
+
+               aliis    0.00300%                            promised    0.00648
+
+          allegiance    0.00300%                           propagate    0.00648
+
+              alleys    0.00300%                            propound    0.00648
+
+                also    0.00300%                           propriety    0.00648
+
+            altitude    0.00300%                            provided    0.00648
+
+          altogether    0.00300%                           provision    0.00648
+
+              always    0.00300%                           published    0.00648
+
+                amaz    0.00300%                                pulp    0.00648
+
+               amaze    0.00300%                            punished    0.00648
+
+               amber    0.00300%                                pure    0.00648
+
+           ambiguous    0.00300%                              purple    0.00648
+
+               amble    0.00300%                       pusillanimity    0.00648
+
+                amen    0.00300%                        putrefaction    0.00648
+
+             amities    0.00300%                             qualify    0.00648
+
+               among    0.00300%                             quality    0.00648
+
+              anchor    0.00300%                            quantity    0.00648
+
+             ancient    0.00300%                             quarter    0.00648
+
+               anger    0.00300%                              quench    0.00648
+
+               angle    0.00300%                               quick    0.00648
+
+               angry    0.00300%                             quicker    0.00648
+
+             animals    0.00300%                              quinzy    0.00648
+
+               ankle    0.00300%                             radiant    0.00648
+
+           annexment    0.00300%                          radiations    0.00648
+
+              annual    0.00300%                                rage    0.00648
+
+              anoint    0.00300%                               rains    0.00648
+
+           answerest    0.00300%                               raise    0.00648
+
+             answers    0.00300%                              raised    0.00648
+
+               antic    0.00300%                                 ran    0.00648
+
+        anticipation    0.00300%                             rancour    0.00648
+
+           antiquity    0.00300%                            rareness    0.00648
+
+              apiece    0.00300%                               reach    0.00648
+
+             apoplex    0.00300%                             readeth    0.00648
+
+               appal    0.00300%                           recalling    0.00648
+
+             apparel    0.00300%                             recited    0.00648
+
+           appeareth    0.00300%                              reckon    0.00648
+
+            appetite    0.00300%                          recounting    0.00648
+
+             applaud    0.00300%                            recovery    0.00648
+
+           appliance    0.00300%                         recreations    0.00648
+
+         appointment    0.00300%                                 red    0.00648
+
+          approaches    0.00300%                          reflecting    0.00648
+
+        appurtenance    0.00300%                          reflexions    0.00648
+
+               aptly    0.00300%                              reform    0.00648
+
+              ardour    0.00300%                         refractions    0.00648
+
+              argues    0.00300%                           refrained    0.00648
+
+              aright    0.00300%                          refreshing    0.00648
+
+          arithmetic    0.00300%                       refrigeration    0.00648
+
+             aroused    0.00300%                      refrigerations    0.00648
+
+             arraign    0.00300%                             refusal    0.00648
+
+              arrest    0.00300%                             regions    0.00648
+
+             arrests    0.00300%                           registers    0.00648
+
+               arriv    0.00300%                             reigned    0.00648
+
+               arrow    0.00300%                            rejected    0.00648
+
+            articles    0.00300%                           rejoicing    0.00648
+
+              artire    0.00300%                           remainder    0.00648
+
+             artless    0.00300%                           remaining    0.00648
+
+               asham    0.00300%                          remembered    0.00648
+
+              aslant    0.00300%                              render    0.00648
+
+              aspect    0.00300%                           rendering    0.00648
+
+              assail    0.00300%                          rendezvous    0.00648
+
+             assault    0.00300%                             renfusa    0.00648
+
+              assays    0.00300%                             repairs    0.00648
+
+          associates    0.00300%                              report    0.00648
+
+              assure    0.00300%                            reported    0.00648
+
+             asunder    0.00300%                         represented    0.00648
+
+              attend    0.00300%                            reproved    0.00648
+
+            attended    0.00300%                             repulse    0.00648
+
+             attends    0.00300%                          reputation    0.00648
+
+              attent    0.00300%                             request    0.00648
+
+          attractive    0.00300%                            required    0.00648
+
+           attribute    0.00300%                             reserve    0.00648
+
+               audit    0.00300%                          resistance    0.00648
+
+              augury    0.00300%                              resort    0.00648
+
+                aunt    0.00300%                            resorted    0.00648
+
+          auspicious    0.00300%                         resplendent    0.00648
+
+         authorities    0.00300%                              rested    0.00648
+
+              avouch    0.00300%                           restoring    0.00648
+
+               awork    0.00300%                            restrain    0.00648
+
+                awry    0.00300%                          restrained    0.00648
+
+                 aye    0.00300%                           restraint    0.00648
+
+                babe    0.00300%                       resuscitating    0.00648
+
+            backward    0.00300%                             returns    0.00648
+
+                bade    0.00300%                             revenew    0.00648
+
+                bait    0.00300%                             revenge    0.00648
+
+               baker    0.00300%                             revenue    0.00648
+
+                 ban    0.00300%                          revolution    0.00648
+
+                bank    0.00300%                           rewarding    0.00648
+
+            baptista    0.00300%                             rewards    0.00648
+
+                 bar    0.00300%                               rings    0.00648
+
+              barber    0.00300%                               ripen    0.00648
+
+                bare    0.00300%                                rise    0.00648
+
+             barefac    0.00300%                              rising    0.00648
+
+            barefoot    0.00300%                                robe    0.00648
+
+                barr    0.00300%                               rocks    0.00648
+
+              barrel    0.00300%                               roofs    0.00648
+
+              barren    0.00300%                                 row    0.00648
+
+            baseness    0.00300%                               rowed    0.00648
+
+             bastard    0.00300%                            rudeness    0.00648
+
+               bated    0.00300%                               ruler    0.00648
+
+          battalions    0.00300%                              safety    0.00648
+
+              batten    0.00300%                              sailed    0.00648
+
+             battery    0.00300%                             sailors    0.00648
+
+         battlements    0.00300%                               saint    0.00648
+
+                bawd    0.00300%                              salary    0.00648
+
+              bawdry    0.00300%                             sallets    0.00648
+
+               bawds    0.00300%                         salutations    0.00648
+
+               bawdy    0.00300%                             saluted    0.00648
+
+                beam    0.00300%                             samples    0.00648
+
+              beards    0.00300%                               sands    0.00648
+
+              beaten    0.00300%                           sapphires    0.00648
+
+               beats    0.00300%                             sarepta    0.00648
+
+           beauteous    0.00300%                           satisfied    0.00648
+
+            beautied    0.00300%                             satisfy    0.00648
+
+            beauties    0.00300%                              savage    0.00648
+
+              beaver    0.00300%                               scala    0.00648
+
+              became    0.00300%                               scant    0.00648
+
+             because    0.00300%                            scarcity    0.00648
+
+                beck    0.00300%                              school    0.00648
+
+              bedded    0.00300%                               score    0.00648
+
+              bedrid    0.00300%                               scorn    0.00648
+
+                beds    0.00300%                                seal    0.00648
+
+             bedtime    0.00300%                          seasonings    0.00648
+
+                beer    0.00300%                             seasons    0.00648
+
+             beetles    0.00300%                              second    0.00648
+
+              befall    0.00300%                            secondly    0.00648
+
+            befitted    0.00300%                            secretly    0.00648
+
+               beget    0.00300%                             secrets    0.00648
+
+               behav    0.00300%                                seed    0.00648
+
+              behold    0.00300%                               seeds    0.00648
+
+            behooves    0.00300%                                seek    0.00648
+
+              behove    0.00300%                            sensibly    0.00648
+
+              belief    0.00300%                            sentence    0.00648
+
+              believ    0.00300%                         separations    0.00648
+
+              bellow    0.00300%                           seraphims    0.00648
+
+            bellowed    0.00300%                               serve    0.00648
+
+               bells    0.00300%                            services    0.00648
+
+               belov    0.00300%                             setting    0.00648
+
+              bended    0.00300%                           severally    0.00648
+
+             benefit    0.00300%                            severely    0.00648
+
+            benetted    0.00300%                                 sex    0.00648
+
+            berattle    0.00300%                             shadows    0.00648
+
+             beshrew    0.00300%                             shallow    0.00648
+
+             besides    0.00300%                               shape    0.00648
+
+            besmirch    0.00300%                              shapes    0.00648
+
+             bespeak    0.00300%                           sharpness    0.00648
+
+             bestial    0.00300%                                 she    0.00648
+
+                 bet    0.00300%                                shed    0.00648
+
+              beteem    0.00300%                               sheep    0.00648
+
+           bethought    0.00300%                                shew    0.00648
+
+             betimes    0.00300%                             shewing    0.00648
+
+             betoken    0.00300%                              showed    0.00648
+
+                bevy    0.00300%                             showeth    0.00648
+
+              bewept    0.00300%                            shriller    0.00648
+
+                bias    0.00300%                              signed    0.00648
+
+                bier    0.00300%                              simple    0.00648
+
+             bilboes    0.00300%                                 sin    0.00648
+
+               birds    0.00300%                              sindon    0.00648
+
+              bisson    0.00300%                             sindons    0.00648
+
+               bites    0.00300%                             sinewes    0.00648
+
+            blackest    0.00300%                            singular    0.00648
+
+             blanket    0.00300%                                sins    0.00648
+
+              blanks    0.00300%                                 sir    0.00648
+
+            blasting    0.00300%                                site    0.00648
+
+          blastments    0.00300%                          situations    0.00648
+
+              blasts    0.00300%                             sixteen    0.00648
+
+               blaze    0.00300%                               sixty    0.00648
+
+              blazes    0.00300%                               skins    0.00648
+
+              blazon    0.00300%                               skirt    0.00648
+
+            bleeding    0.00300%                               sleep    0.00648
+
+              blench    0.00300%                              slides    0.00648
+
+               blind    0.00300%                              slowly    0.00648
+
+             blister    0.00300%                               smell    0.00648
+
+               bloat    0.00300%                               smile    0.00648
+
+            bloodily    0.00300%                              smiled    0.00648
+
+            blossoms    0.00300%                             smiling    0.00648
+
+                blue    0.00300%                             soberly    0.00648
+
+             blunted    0.00300%                              soever    0.00648
+
+               blurs    0.00300%                               soils    0.00648
+
+               board    0.00300%                           solemnity    0.00648
+
+             boarded    0.00300%                            solitary    0.00648
+
+               bodes    0.00300%                            sometime    0.00648
+
+            bodiless    0.00300%                              sought    0.00648
+
+              bodkin    0.00300%                             sources    0.00648
+
+            bodykins    0.00300%                           sovereign    0.00648
+
+               boist    0.00300%                                spar    0.00648
+
+              bonnet    0.00300%                             sparing    0.00648
+
+               bonny    0.00300%                            speaketh    0.00648
+
+               books    0.00300%                           specially    0.00648
+
+            borrowed    0.00300%                           spectacle    0.00648
+
+            borrower    0.00300%                          spectacles    0.00648
+
+           borrowing    0.00300%                            speedily    0.00648
+
+               botch    0.00300%                               spend    0.00648
+
+              boughs    0.00300%                             spirits    0.00648
+
+              bought    0.00300%                              spread    0.00648
+
+             bounded    0.00300%                               sprig    0.00648
+
+              bounds    0.00300%                               staid    0.00648
+
+           bounteous    0.00300%                              stairs    0.00648
+
+              bounty    0.00300%                               stamp    0.00648
+
+               bourn    0.00300%                               stars    0.00648
+
+                bout    0.00300%                             stature    0.00648
+
+               bouts    0.00300%                             stayeth    0.00648
+
+                bowl    0.00300%                               steel    0.00648
+
+                 box    0.00300%                               stews    0.00648
+
+                boys    0.00300%                           stockings    0.00648
+
+            brainish    0.00300%                             stomach    0.00648
+
+            branches    0.00300%                             stooped    0.00648
+
+              brands    0.00300%                                stop    0.00648
+
+             bravery    0.00300%                            straight    0.00648
+
+                bray    0.00300%                              strain    0.00648
+
+                braz    0.00300%                           strainers    0.00648
+
+              brazen    0.00300%                             straits    0.00648
+
+              breach    0.00300%                         strangeness    0.00648
+
+               bread    0.00300%                            streamed    0.00648
+
+             breadth    0.00300%                              street    0.00648
+
+            breaking    0.00300%                             streets    0.00648
+
+              breast    0.00300%                            striking    0.00648
+
+            breathes    0.00300%                              strive    0.00648
+
+             breeder    0.00300%                              stroke    0.00648
+
+             brevity    0.00300%                            stronger    0.00648
+
+               bride    0.00300%                               study    0.00648
+
+            bringing    0.00300%                              stuffs    0.00648
+
+              brings    0.00300%                              styled    0.00648
+
+              broach    0.00300%                            subjects    0.00648
+
+              broken    0.00300%                          submissive    0.00648
+
+             brokers    0.00300%                        subscription    0.00648
+
+               brood    0.00300%                          substances    0.00648
+
+             brothel    0.00300%                         substantive    0.00648
+
+               bruit    0.00300%                            subtilty    0.00648
+
+               brute    0.00300%                          succession    0.00648
+
+              brutus    0.00300%                              suffer    0.00648
+
+             bubbles    0.00300%                             suffice    0.00648
+
+               budge    0.00300%                               sugar    0.00648
+
+             buffets    0.00300%                              sugars    0.00648
+
+                bugs    0.00300%                               suits    0.00648
+
+               build    0.00300%                             sulphur    0.00648
+
+               built    0.00300%                            summoned    0.00648
+
+             bulwark    0.00300%                              sundry    0.00648
+
+            bunghole    0.00300%                                sung    0.00648
+
+               burnt    0.00300%                                sunk    0.00648
+
+             burthen    0.00300%                        supernatural    0.00648
+
+                busy    0.00300%                     superstitiously    0.00648
+
+              button    0.00300%                              supply    0.00648
+
+             buttons    0.00300%                           supported    0.00648
+
+                 buy    0.00300%                          supporters    0.00648
+
+               buyer    0.00300%                                swam    0.00648
+
+                buys    0.00300%                              swarms    0.00648
+
+             buzzers    0.00300%                               swear    0.00648
+
+                   c    0.00300%                            swelling    0.00648
+
+               cabin    0.00300%                             swifter    0.00648
+
+                cain    0.00300%                            swimming    0.00648
+
+            calamity    0.00300%                           symbolize    0.00648
+
+            calendar    0.00300%                                tall    0.00648
+
+                calf    0.00300%                              taller    0.00648
+
+              calmly    0.00300%                                tamp    0.00648
+
+          calumnious    0.00300%                             taratan    0.00648
+
+             calumny    0.00300%                             tartary    0.00648
+
+              calves    0.00300%                              tasted    0.00648
+
+          calveskins    0.00300%                              tawney    0.00648
+
+             candied    0.00300%                                 tax    0.00648
+
+           cannoneer    0.00300%                              tedder    0.00648
+
+             cannons    0.00300%                              temper    0.00648
+
+               canon    0.00300%                         temperature    0.00648
+
+             canoniz    0.00300%                          tenderness    0.00648
+
+              canopy    0.00300%                               thank    0.00648
+
+          capability    0.00300%                        thanksgiving    0.00648
+
+             capitol    0.00300%                             theatre    0.00648
+
+              capons    0.00300%                             thereby    0.00648
+
+                caps    0.00300%                             therein    0.00648
+
+            captains    0.00300%                               thick    0.00648
+
+          carbuncles    0.00300%                               thine    0.00648
+
+           carefully    0.00300%                             thirdly    0.00648
+
+            careless    0.00300%                            thirteen    0.00648
+
+              carnal    0.00300%                             thither    0.00648
+
+            carouses    0.00300%                          throughout    0.00648
+
+                carp    0.00300%                            thunders    0.00648
+
+            carriage    0.00300%                                tied    0.00648
+
+             carried    0.00300%                              tigers    0.00648
+
+             carries    0.00300%                             tincted    0.00648
+
+             carrion    0.00300%                              tipped    0.00648
+
+                cars    0.00300%                            tipstaff    0.00648
+
+                cart    0.00300%                             tissued    0.00648
+
+             carters    0.00300%                             tissues    0.00648
+
+               carve    0.00300%                              titles    0.00648
+
+                case    0.00300%                           tolerated    0.00648
+
+               cases    0.00300%                               tools    0.00648
+
+              casual    0.00300%                             tossing    0.00648
+
+                 cat    0.00300%                               tough    0.00648
+
+           cataplasm    0.00300%                              toward    0.00648
+
+              cautel    0.00300%                               tower    0.00648
+
+             caution    0.00300%                                town    0.00648
+
+             caviary    0.00300%                               tract    0.00648
+
+               cease    0.00300%                               trade    0.00648
+
+          celebrated    0.00300%                             traffic    0.00648
+
+                cell    0.00300%                               train    0.00648
+
+           cellarage    0.00300%                         transparent    0.00648
+
+              centre    0.00300%                     transportations    0.00648
+
+           cerements    0.00300%                             trapped    0.00648
+
+           certainty    0.00300%                          travellers    0.00648
+
+               cesse    0.00300%                          travelling    0.00648
+
+             chalice    0.00300%                            traverse    0.00648
+
+          challenger    0.00300%                               tread    0.00648
+
+           chameleon    0.00300%                            treasure    0.00648
+
+             changed    0.00300%                               treat    0.00648
+
+          changeling    0.00300%                                tree    0.00648
+
+             changes    0.00300%                          tremblings    0.00648
+
+             chanson    0.00300%                              tribes    0.00648
+
+                chap    0.00300%                            troubled    0.00648
+
+            chapless    0.00300%                              trunks    0.00648
+
+            chariest    0.00300%                               truth    0.00648
+
+             charity    0.00300%                              tumult    0.00648
+
+               charm    0.00300%                             turbans    0.00648
+
+               chase    0.00300%                             turkish    0.00648
+
+            chaunted    0.00300%                             turning    0.00648
+
+            checking    0.00300%                             tyrians    0.00648
+
+              cherub    0.00300%                                ugly    0.00648
+
+               chide    0.00300%                             unbound    0.00648
+
+            chiefest    0.00300%                            unchaste    0.00648
+
+             chiefly    0.00300%                          uncoloured    0.00648
+
+             chopine    0.00300%                       understanding    0.00648
+
+              chorus    0.00300%                            ungloved    0.00648
+
+              chough    0.00300%                               union    0.00648
+
+          christians    0.00300%                          unlawfully    0.00648
+
+          chronicles    0.00300%                           unnatural    0.00648
+
+            churches    0.00300%                        unquenchable    0.00648
+
+          churchyard    0.00300%                          unquenched    0.00648
+
+         churchyards    0.00300%                              unseen    0.00648
+
+            churlish    0.00300%                               until    0.00648
+
+           cicatrice    0.00300%                           unwilling    0.00648
+
+         circumscrib    0.00300%                        unworthiness    0.00648
+
+       circumstances    0.00300%                               urine    0.00648
+
+          circumvent    0.00300%                               usage    0.00648
+
+                clad    0.00300%                                uses    0.00648
+
+               claim    0.00300%                               usual    0.00648
+
+               clamb    0.00300%                               utter    0.00648
+
+             clamour    0.00300%                                vale    0.00648
+
+               clapp    0.00300%                              valley    0.00648
+
+             claudio    0.00300%                            vanished    0.00648
+
+            claudius    0.00300%                             vantage    0.00648
+
+              clawed    0.00300%                               vapor    0.00648
+
+               clear    0.00300%                              veiled    0.00648
+
+             clearly    0.00300%                                vent    0.00648
+
+              cleave    0.00300%                              viands    0.00648
+
+               cleft    0.00300%                                vice    0.00648
+
+            clemency    0.00300%                              viewed    0.00648
+
+               cliff    0.00300%                           vineyards    0.00648
+
+           climature    0.00300%                             virgins    0.00648
+
+                clip    0.00300%                             virtues    0.00648
+
+                 clo    0.00300%                              vision    0.00648
+
+               cloak    0.00300%                              visits    0.00648
+
+             closely    0.00300%                              visual    0.00648
+
+              clothe    0.00300%                        vitrificated    0.00648
+
+             clothes    0.00300%                             vitriol    0.00648
+
+               cloud    0.00300%                            vocation    0.00648
+
+               clout    0.00300%                                void    0.00648
+
+              clouts    0.00300%                          vouchsafed    0.00648
+
+              clutch    0.00300%                               vowed    0.00648
+
+               coach    0.00300%                              walked    0.00648
+
+           coagulate    0.00300%                               walls    0.00648
+
+              cockle    0.00300%                                 war    0.00648
+
+              coffin    0.00300%                           warblings    0.00648
+
+                coil    0.00300%                             warrior    0.00648
+
+             coinage    0.00300%                                wars    0.00648
+
+          collateral    0.00300%                               waxed    0.00648
+
+          colleagued    0.00300%                                weal    0.00648
+
+             colours    0.00300%                               weeks    0.00648
+
+          columbines    0.00300%                                 wet    0.00648
+
+              combat    0.00300%                               whale    0.00648
+
+            combated    0.00300%                          whatsoever    0.00648
+
+         combination    0.00300%                               wheat    0.00648
+
+            combined    0.00300%                           wherefore    0.00648
+
+             comfort    0.00300%                             whereto    0.00648
+
+               comma    0.00300%                           wherewith    0.00648
+
+           commanded    0.00300%                              whiter    0.00648
+
+            commands    0.00300%                             whitish    0.00648
+
+        commencement    0.00300%                           wholesome    0.00648
+
+         commendable    0.00300%                              wholly    0.00648
+
+           commended    0.00300%                               whore    0.00648
+
+             comment    0.00300%                           whosoever    0.00648
+
+            commerce    0.00300%                                 why    0.00648
+
+          commingled    0.00300%                               widow    0.00648
+
+             commune    0.00300%                          wilderness    0.00648
+
+             compact    0.00300%                               wills    0.00648
+
+           companies    0.00300%                                wind    0.00648
+
+          companions    0.00300%                              winter    0.00648
+
+             company    0.00300%                              wisdom    0.00648
+
+             compare    0.00300%                              wished    0.00648
+
+             compass    0.00300%                             withall    0.00648
+
+             compell    0.00300%                           withdrawn    0.00648
+
+           compelled    0.00300%                               wives    0.00648
+
+           competent    0.00300%                               woman    0.00648
+
+              compos    0.00300%                         wonderfully    0.00648
+
+             compost    0.00300%                             wonders    0.00648
+
+            compound    0.00300%                             workest    0.00648
+
+          compounded    0.00300%                         workmanship    0.00648
+
+        compulsatory    0.00300%                             worldly    0.00648
+
+          compulsive    0.00300%                                worm    0.00648
+
+             comrade    0.00300%                               worse    0.00648
+
+            comutual    0.00300%                               worth    0.00648
+
+             conceal    0.00300%                           woundings    0.00648
+
+           conceited    0.00300%                             wrapped    0.00648
+
+            conceive    0.00300%                             writing    0.00648
+
+          conception    0.00300%                            writings    0.00648
+
+         concernancy    0.00300%                               wrote    0.00648
+
+         concernings    0.00300%                            yellower    0.00648
+
+           concluded    0.00300%                               yoked    0.00648
+
+         conclusions    0.00300%                             younger    0.00648
+
+             condole    0.00300%
+         condolement    0.00300%
+         confederate    0.00300%
+          conference    0.00300%
+              confin    0.00300%
+            confines    0.00300%
+            confront    0.00300%
+           confusion    0.00300%
+        congregation    0.00300%
+           congruing    0.00300%
+         conjectures    0.00300%
+             conjoin    0.00300%
+         conjunctive    0.00300%
+         conjuration    0.00300%
+             conjure    0.00300%
+            conjures    0.00300%
+           conqueror    0.00300%
+            conquest    0.00300%
+          considered    0.00300%
+          consonancy    0.00300%
+            constant    0.00300%
+          constantly    0.00300%
+        consummation    0.00300%
+          contagious    0.00300%
+          containing    0.00300%
+             contend    0.00300%
+            contents    0.00300%
+           continual    0.00300%
+            contract    0.00300%
+          contracted    0.00300%
+         contraction    0.00300%
+            contrary    0.00300%
+          contriving    0.00300%
+         controversy    0.00300%
+           contumely    0.00300%
+         convenience    0.00300%
+        conveniently    0.00300%
+        conversation    0.00300%
+            converse    0.00300%
+           converted    0.00300%
+              convey    0.00300%
+          conveyance    0.00300%
+         conveyances    0.00300%
+         convocation    0.00300%
+              convoy    0.00300%
+                cool    0.00300%
+                 cop    0.00300%
+              copied    0.00300%
+                 cor    0.00300%
+                core    0.00300%
+              corner    0.00300%
+          coronation    0.00300%
+             coronet    0.00300%
+           corrupted    0.00300%
+              corses    0.00300%
+              costly    0.00300%
+               coted    0.00300%
+             couched    0.00300%
+          counsellor    0.00300%
+             counter    0.00300%
+         counterfeit    0.00300%
+           countries    0.00300%
+          countrymen    0.00300%
+              couple    0.00300%
+            couplets    0.00300%
+             courses    0.00300%
+           courteous    0.00300%
+            courtesy    0.00300%
+           courtiers    0.00300%
+                 cov    0.00300%
+             cowards    0.00300%
+                 coz    0.00300%
+               cozen    0.00300%
+                crab    0.00300%
+              cracks    0.00300%
+              crafts    0.00300%
+              crafty    0.00300%
+               cramm    0.00300%
+               crash    0.00300%
+              craven    0.00300%
+              craves    0.00300%
+            crawling    0.00300%
+            creation    0.00300%
+             credent    0.00300%
+               creep    0.00300%
+            crescent    0.00300%
+                crib    0.00300%
+               crier    0.00300%
+            crimeful    0.00300%
+            croaking    0.00300%
+           crocodile    0.00300%
+               crook    0.00300%
+               cross    0.00300%
+         crowflowers    0.00300%
+             crowing    0.00300%
+              crowns    0.00300%
+               crows    0.00300%
+               crust    0.00300%
+             cuckold    0.00300%
+              cudgel    0.00300%
+                 cue    0.00300%
+               cuffs    0.00300%
+                 cum    0.00300%
+            cunnings    0.00300%
+                cups    0.00300%
+                curb    0.00300%
+                curd    0.00300%
+                cure    0.00300%
+           curiously    0.00300%
+               curls    0.00300%
+               curse    0.00300%
+             cursing    0.00300%
+           customary    0.00300%
+            cutpurse    0.00300%
+             cyclops    0.00300%
+              dagger    0.00300%
+               daily    0.00300%
+            daintier    0.00300%
+             daisies    0.00300%
+               daisy    0.00300%
+           dalliance    0.00300%
+               dally    0.00300%
+            dallying    0.00300%
+            damnable    0.00300%
+           damnation    0.00300%
+               damon    0.00300%
+            danskers    0.00300%
+                dark    0.00300%
+             darkest    0.00300%
+           daughters    0.00300%
+             dawning    0.00300%
+                deal    0.00300%
+               dealt    0.00300%
+              dearth    0.00300%
+            deathbed    0.00300%
+              deaths    0.00300%
+              debate    0.00300%
+          debatement    0.00300%
+                debt    0.00300%
+             decayer    0.00300%
+              deceiv    0.00300%
+            deceived    0.00300%
+                deck    0.00300%
+          declension    0.00300%
+             decline    0.00300%
+            declines    0.00300%
+           declining    0.00300%
+               deeds    0.00300%
+              deeply    0.00300%
+                deer    0.00300%
+            defeated    0.00300%
+             defeats    0.00300%
+           defective    0.00300%
+              define    0.00300%
+          definement    0.00300%
+                defy    0.00300%
+              deject    0.00300%
+            dejected    0.00300%
+              delays    0.00300%
+          deliberate    0.00300%
+           delivered    0.00300%
+               delve    0.00300%
+              delver    0.00300%
+            demanded    0.00300%
+                demi    0.00300%
+        demonstrated    0.00300%
+              denied    0.00300%
+              denies    0.00300%
+              denote    0.00300%
+              depart    0.00300%
+            departed    0.00300%
+              depriv    0.00300%
+             deprive    0.00300%
+             deserve    0.00300%
+            deserved    0.00300%
+              design    0.00300%
+            desirous    0.00300%
+                desk    0.00300%
+              despis    0.00300%
+             despite    0.00300%
+           detecting    0.00300%
+       determination    0.00300%
+           determine    0.00300%
+              device    0.00300%
+             devices    0.00300%
+               devis    0.00300%
+              devise    0.00300%
+            devotion    0.00300%
+            devoutly    0.00300%
+                dews    0.00300%
+           dexterity    0.00300%
+            diameter    0.00300%
+              dicers    0.00300%
+             diction    0.00300%
+              didest    0.00300%
+                dido    0.00300%
+         differences    0.00300%
+           different    0.00300%
+            digested    0.00300%
+                digg    0.00300%
+                digs    0.00300%
+             dilated    0.00300%
+                dild    0.00300%
+           diligence    0.00300%
+                 dip    0.00300%
+             dipping    0.00300%
+                dire    0.00300%
+          directions    0.00300%
+               dirge    0.00300%
+               dirty    0.00300%
+        disappointed    0.00300%
+           disasters    0.00300%
+         disclaiming    0.00300%
+            disclose    0.00300%
+          discomfort    0.00300%
+             discord    0.00300%
+           discovery    0.00300%
+              diseas    0.00300%
+             disease    0.00300%
+            diseases    0.00300%
+                dish    0.00300%
+              dishes    0.00300%
+            disjoint    0.00300%
+             dislike    0.00300%
+          dismantled    0.00300%
+              dismay    0.00300%
+             distant    0.00300%
+             distill    0.00300%
+          distilment    0.00300%
+         distinguish    0.00300%
+            distract    0.00300%
+            distress    0.00300%
+            ditchers    0.00300%
+             divided    0.00300%
+              divine    0.00300%
+           divulging    0.00300%
+              doctor    0.00300%
+            document    0.00300%
+                dogs    0.00300%
+               doing    0.00300%
+                dole    0.00300%
+           dominions    0.00300%
+                donn    0.00300%
+               dotes    0.00300%
+             doublet    0.00300%
+              doubts    0.00300%
+                dout    0.00300%
+               douts    0.00300%
+               dowry    0.00300%
+                dozy    0.00300%
+                drab    0.00300%
+            drabbing    0.00300%
+               dragg    0.00300%
+              drains    0.00300%
+                dram    0.00300%
+            draughts    0.00300%
+             dreaded    0.00300%
+          dreadfully    0.00300%
+              dreamt    0.00300%
+            drinking    0.00300%
+              driven    0.00300%
+              drives    0.00300%
+            drooping    0.00300%
+                drop    0.00300%
+            dropping    0.00300%
+           droppings    0.00300%
+              drossy    0.00300%
+              drowns    0.00300%
+               drugs    0.00300%
+               drunk    0.00300%
+           drunkards    0.00300%
+               ducat    0.00300%
+                 due    0.00300%
+                 dug    0.00300%
+                duke    0.00300%
+              duller    0.00300%
+               dulls    0.00300%
+            dungeons    0.00300%
+                dupp    0.00300%
+              duties    0.00300%
+            dwelling    0.00300%
+                 dye    0.00300%
+               dying    0.00300%
+             earnest    0.00300%
+             earthly    0.00300%
+              easier    0.00300%
+              easily    0.00300%
+              easing    0.00300%
+                east    0.00300%
+            eastward    0.00300%
+               eaten    0.00300%
+             eclipse    0.00300%
+             ecstacy    0.00300%
+             edified    0.00300%
+            eggshell    0.00300%
+               eight    0.00300%
+               elder    0.00300%
+              eldest    0.00300%
+             element    0.00300%
+              eleven    0.00300%
+            eloquent    0.00300%
+              embark    0.00300%
+           embracing    0.00300%
+             emperor    0.00300%
+            emphasis    0.00300%
+              employ    0.00300%
+               empty    0.00300%
+             emulate    0.00300%
+           enactures    0.00300%
+       encompassment    0.00300%
+          encorporal    0.00300%
+             encount    0.00300%
+              encumb    0.00300%
+           endeavour    0.00300%
+               ended    0.00300%
+              ending    0.00300%
+              endure    0.00300%
+               engag    0.00300%
+             enginer    0.00300%
+             english    0.00300%
+              enlarg    0.00300%
+              enmity    0.00300%
+             enquire    0.00300%
+            enseamed    0.00300%
+         enterprises    0.00300%
+              enters    0.00300%
+            entrance    0.00300%
+           entreated    0.00300%
+        entreatments    0.00300%
+             envious    0.00300%
+           enviously    0.00300%
+        equivocation    0.00300%
+             erbears    0.00300%
+             ercrows    0.00300%
+             erdoing    0.00300%
+            ergrowth    0.00300%
+           erhanging    0.00300%
+             erhasty    0.00300%
+              erhear    0.00300%
+           erleavens    0.00300%
+            ermaster    0.00300%
+                 err    0.00300%
+            erraught    0.00300%
+           erreaches    0.00300%
+              erring    0.00300%
+              errors    0.00300%
+              errule    0.00300%
+             ersized    0.00300%
+              erstep    0.00300%
+             ersways    0.00300%
+            erteemed    0.00300%
+            erthrown    0.00300%
+              ertook    0.00300%
+               ertop    0.00300%
+            eruption    0.00300%
+             erweigh    0.00300%
+             erwhelm    0.00300%
+                  es    0.00300%
+             escoted    0.00300%
+               esill    0.00300%
+            especial    0.00300%
+             espials    0.00300%
+         essentially    0.00300%
+              esteem    0.00300%
+          estimation    0.00300%
+                  et    0.00300%
+              eterne    0.00300%
+            eternity    0.00300%
+              events    0.00300%
+         everlasting    0.00300%
+            evermore    0.00300%
+            evidence    0.00300%
+               exact    0.00300%
+             exactly    0.00300%
+            examples    0.00300%
+              exceed    0.00300%
+         exceedingly    0.00300%
+           exception    0.00300%
+         excitements    0.00300%
+             exclaim    0.00300%
+          excrements    0.00300%
+              excuse    0.00300%
+           exercises    0.00300%
+              exhort    0.00300%
+          expectancy    0.00300%
+              expend    0.00300%
+             expense    0.00300%
+             exploit    0.00300%
+            exposing    0.00300%
+         expostulate    0.00300%
+              extant    0.00300%
+              extent    0.00300%
+            exterior    0.00300%
+             extinct    0.00300%
+           extolment    0.00300%
+            extorted    0.00300%
+         extravagant    0.00300%
+              eyases    0.00300%
+             eyelids    0.00300%
+               eyrie    0.00300%
+             faction    0.00300%
+               faded    0.00300%
+              fadoms    0.00300%
+                fail    0.00300%
+              fairly    0.00300%
+               fairy    0.00300%
+           falconers    0.00300%
+           falsehood    0.00300%
+             falsely    0.00300%
+            familiar    0.00300%
+              famous    0.00300%
+                fang    0.00300%
+                fann    0.00300%
+           fantastic    0.00300%
+             fardels    0.00300%
+             fatness    0.00300%
+              fatted    0.00300%
+           favourite    0.00300%
+             fawning    0.00300%
+                 fay    0.00300%
+             fearful    0.00300%
+             fearing    0.00300%
+             feather    0.00300%
+            feathers    0.00300%
+               feats    0.00300%
+               feeds    0.00300%
+                feel    0.00300%
+           feelingly    0.00300%
+               feels    0.00300%
+            felicity    0.00300%
+             fellies    0.00300%
+              female    0.00300%
+             fencing    0.00300%
+              fennel    0.00300%
+             fertile    0.00300%
+             fetters    0.00300%
+             fiction    0.00300%
+               field    0.00300%
+              fiends    0.00300%
+              fierce    0.00300%
+               fifty    0.00300%
+              filial    0.00300%
+                fill    0.00300%
+                film    0.00300%
+               fires    0.00300%
+                firm    0.00300%
+           firmament    0.00300%
+             fitness    0.00300%
+              fitted    0.00300%
+             fitting    0.00300%
+              flagon    0.00300%
+             flagons    0.00300%
+               flash    0.00300%
+             flashes    0.00300%
+               flats    0.00300%
+          flattering    0.00300%
+                flaw    0.00300%
+              flaxen    0.00300%
+               flies    0.00300%
+             flights    0.00300%
+              flints    0.00300%
+               flood    0.00300%
+          flourishes    0.00300%
+               flush    0.00300%
+            flushing    0.00300%
+                 foh    0.00300%
+              folded    0.00300%
+                folk    0.00300%
+           followers    0.00300%
+               folly    0.00300%
+                fond    0.00300%
+             foolery    0.00300%
+              footed    0.00300%
+             forbear    0.00300%
+             forcing    0.00300%
+               fordo    0.00300%
+             fordoes    0.00300%
+                fore    0.00300%
+             foreign    0.00300%
+         foreknowing    0.00300%
+            foresaid    0.00300%
+              forest    0.00300%
+           forestall    0.00300%
+         forestalled    0.00300%
+             forfeit    0.00300%
+                forg    0.00300%
+              forged    0.00300%
+           forgeries    0.00300%
+             forgery    0.00300%
+          forgetting    0.00300%
+         forgiveness    0.00300%
+             forgone    0.00300%
+           forgotten    0.00300%
+              formal    0.00300%
+           forthwith    0.00300%
+      fortifications    0.00300%
+           fortified    0.00300%
+               forts    0.00300%
+              fought    0.00300%
+                 fox    0.00300%
+             frailty    0.00300%
+              freeze    0.00300%
+           frenchman    0.00300%
+                fret    0.00300%
+             fretful    0.00300%
+             fretted    0.00300%
+           friending    0.00300%
+          friendship    0.00300%
+            frighted    0.00300%
+               frock    0.00300%
+               front    0.00300%
+            frontier    0.00300%
+               frost    0.00300%
+               frown    0.00300%
+          frowningly    0.00300%
+            fruitful    0.00300%
+              fruits    0.00300%
+             fulfill    0.00300%
+            function    0.00300%
+           functions    0.00300%
+             furnish    0.00300%
+                fust    0.00300%
+               gaged    0.00300%
+          gaingiving    0.00300%
+             gallant    0.00300%
+              galled    0.00300%
+              gambol    0.00300%
+             gambols    0.00300%
+                gape    0.00300%
+                garb    0.00300%
+             garbage    0.00300%
+                gard    0.00300%
+             garland    0.00300%
+            garlands    0.00300%
+            garments    0.00300%
+            garrison    0.00300%
+               gates    0.00300%
+               gaudy    0.00300%
+           gauntlets    0.00300%
+                 gem    0.00300%
+              gender    0.00300%
+         gentlewoman    0.00300%
+              gently    0.00300%
+             germane    0.00300%
+            gestures    0.00300%
+                gets    0.00300%
+           giantlike    0.00300%
+                 gib    0.00300%
+              gibber    0.00300%
+               gibes    0.00300%
+              gilded    0.00300%
+                gins    0.00300%
+              girdle    0.00300%
+                girl    0.00300%
+                 gis    0.00300%
+              givers    0.00300%
+              glares    0.00300%
+              glassy    0.00300%
+            glimpses    0.00300%
+               globe    0.00300%
+                glow    0.00300%
+            glowworm    0.00300%
+              goblin    0.00300%
+             goblins    0.00300%
+             godlike    0.00300%
+                gold    0.00300%
+             goodman    0.00300%
+         goosequills    0.00300%
+                gore    0.00300%
+               gorge    0.00300%
+              govern    0.00300%
+                gown    0.00300%
+             grained    0.00300%
+               grand    0.00300%
+           grandsire    0.00300%
+               grant    0.00300%
+            grapples    0.00300%
+             grating    0.00300%
+              gratis    0.00300%
+           graveness    0.00300%
+             greatly    0.00300%
+           greatness    0.00300%
+              greeks    0.00300%
+             greenly    0.00300%
+               greet    0.00300%
+             greeted    0.00300%
+            greeting    0.00300%
+           greetings    0.00300%
+                grew    0.00300%
+                grey    0.00300%
+              griefs    0.00300%
+               griev    0.00300%
+             grieves    0.00300%
+            grinning    0.00300%
+            grizzled    0.00300%
+               groan    0.00300%
+            groaning    0.00300%
+              groans    0.00300%
+                grop    0.00300%
+             grosser    0.00300%
+             grossly    0.00300%
+         groundlings    0.00300%
+             grounds    0.00300%
+             growing    0.00300%
+               grunt    0.00300%
+             guarded    0.00300%
+              guards    0.00300%
+           guiltless    0.00300%
+               gules    0.00300%
+                gulf    0.00300%
+                 gum    0.00300%
+               gyved    0.00300%
+              habits    0.00300%
+                hail    0.00300%
+                hair    0.00300%
+               hairs    0.00300%
+           halfpenny    0.00300%
+              hallow    0.00300%
+                halt    0.00300%
+             hammers    0.00300%
+                hams    0.00300%
+             handsaw    0.00300%
+            handsome    0.00300%
+                 hap    0.00300%
+              happen    0.00300%
+           happiness    0.00300%
+                haps    0.00300%
+          harbingers    0.00300%
+               hardy    0.00300%
+                hark    0.00300%
+             harmony    0.00300%
+             harping    0.00300%
+              harrow    0.00300%
+             harrows    0.00300%
+             harshly    0.00300%
+                hart    0.00300%
+              hasten    0.00300%
+               hasty    0.00300%
+           hatchment    0.00300%
+                hate    0.00300%
+               haunt    0.00300%
+            hautboys    0.00300%
+              havior    0.00300%
+             haviour    0.00300%
+               havoc    0.00300%
+                hawk    0.00300%
+              hazard    0.00300%
+              headed    0.00300%
+           healthful    0.00300%
+              hearer    0.00300%
+             hearsed    0.00300%
+           heartache    0.00300%
+             heathen    0.00300%
+              heaves    0.00300%
+             heavily    0.00300%
+              hebona    0.00300%
+              hecate    0.00300%
+              hectic    0.00300%
+               hedge    0.00300%
+             heedful    0.00300%
+              height    0.00300%
+                heir    0.00300%
+             hellish    0.00300%
+             helpful    0.00300%
+               helps    0.00300%
+                hems    0.00300%
+                hent    0.00300%
+              herald    0.00300%
+                herb    0.00300%
+           hereafter    0.00300%
+               herod    0.00300%
+              herods    0.00300%
+              heroes    0.00300%
+                 hew    0.00300%
+              heyday    0.00300%
+                 hic    0.00300%
+               hides    0.00300%
+                hies    0.00300%
+              higher    0.00300%
+             highest    0.00300%
+              highly    0.00300%
+            highness    0.00300%
+               hillo    0.00300%
+               hilts    0.00300%
+              hinges    0.00300%
+                hire    0.00300%
+                hoar    0.00300%
+               hoist    0.00300%
+             holding    0.00300%
+                hole    0.00300%
+               holla    0.00300%
+              hollow    0.00300%
+              homage    0.00300%
+               honey    0.00300%
+            honeying    0.00300%
+             honours    0.00300%
+                 hoo    0.00300%
+             hoodman    0.00300%
+               hoops    0.00300%
+                 hop    0.00300%
+               hopes    0.00300%
+             horrors    0.00300%
+           horseback    0.00300%
+                host    0.00300%
+              hourly    0.00300%
+              houses    0.00300%
+               hover    0.00300%
+                howe    0.00300%
+             howling    0.00300%
+           howsoever    0.00300%
+                 hue    0.00300%
+                huge    0.00300%
+              hugger    0.00300%
+            humanity    0.00300%
+              humble    0.00300%
+            humorous    0.00300%
+                hung    0.00300%
+               hunts    0.00300%
+           husbandry    0.00300%
+            husbands    0.00300%
+                hush    0.00300%
+               hymen    0.00300%
+           hypocrite    0.00300%
+          hypocrites    0.00300%
+           hyrcanian    0.00300%
+                idol    0.00300%
+                  il    0.00300%
+               ilium    0.00300%
+                illo    0.00300%
+                ills    0.00300%
+              illume    0.00300%
+            illusion    0.00300%
+        imaginations    0.00300%
+             imagine    0.00300%
+            imitated    0.00300%
+         immediately    0.00300%
+            immortal    0.00300%
+          impartment    0.00300%
+            impasted    0.00300%
+           impatient    0.00300%
+       imperfections    0.00300%
+            imperial    0.00300%
+           imperious    0.00300%
+           impetuous    0.00300%
+             impious    0.00300%
+          implements    0.00300%
+         implorators    0.00300%
+           important    0.00300%
+            importun    0.00300%
+         importunate    0.00300%
+         importunity    0.00300%
+          imposthume    0.00300%
+           impotence    0.00300%
+            impotent    0.00300%
+             impress    0.00300%
+          impression    0.00300%
+          imputation    0.00300%
+           incapable    0.00300%
+            incensed    0.00300%
+              incest    0.00300%
+                inch    0.00300%
+              inclin    0.00300%
+           inclining    0.00300%
+        incontinency    0.00300%
+             incorps    0.00300%
+           incorrect    0.00300%
+            increase    0.00300%
+          indentures    0.00300%
+               index    0.00300%
+              indict    0.00300%
+       indifferently    0.00300%
+        indirections    0.00300%
+        indiscretion    0.00300%
+         individable    0.00300%
+              indued    0.00300%
+        inexplicable    0.00300%
+          infallibly    0.00300%
+             infants    0.00300%
+              infect    0.00300%
+            infected    0.00300%
+             infects    0.00300%
+           influence    0.00300%
+            infusion    0.00300%
+           ingenious    0.00300%
+         inheritance    0.00300%
+           inheritor    0.00300%
+          inhibition    0.00300%
+                inky    0.00300%
+              inmost    0.00300%
+            innocent    0.00300%
+          innovation    0.00300%
+           inoculate    0.00300%
+             inquire    0.00300%
+              insert    0.00300%
+         insinuation    0.00300%
+           insolence    0.00300%
+            instance    0.00300%
+           instances    0.00300%
+           instantly    0.00300%
+           instructs    0.00300%
+        instrumental    0.00300%
+              intend    0.00300%
+             intents    0.00300%
+               inter    0.00300%
+             interim    0.00300%
+           interpret    0.00300%
+               intil    0.00300%
+           intruding    0.00300%
+               inurn    0.00300%
+       inventorially    0.00300%
+           inventors    0.00300%
+         investments    0.00300%
+           invisible    0.00300%
+              invite    0.00300%
+             invites    0.00300%
+        invulnerable    0.00300%
+              israel    0.00300%
+             italian    0.00300%
+                jade    0.00300%
+             jangled    0.00300%
+                 jaw    0.00300%
+             jawbone    0.00300%
+                jaws    0.00300%
+               jelly    0.00300%
+              jester    0.00300%
+              jocund    0.00300%
+                john    0.00300%
+             jointly    0.00300%
+           jointress    0.00300%
+          journeymen    0.00300%
+            journeys    0.00300%
+               jowls    0.00300%
+            joyfully    0.00300%
+              judges    0.00300%
+           judicious    0.00300%
+             juggled    0.00300%
+               juice    0.00300%
+             justice    0.00300%
+              kettle    0.00300%
+          kettledrum    0.00300%
+         kettledrums    0.00300%
+                 key    0.00300%
+                kibe    0.00300%
+                kick    0.00300%
+              killed    0.00300%
+            kindless    0.00300%
+              kingly    0.00300%
+                kiss    0.00300%
+               kites    0.00300%
+              knaves    0.00300%
+                knee    0.00300%
+               knife    0.00300%
+              knight    0.00300%
+            knocking    0.00300%
+             knotted    0.00300%
+             knowest    0.00300%
+           knowledge    0.00300%
+                  la    0.00300%
+            labourer    0.00300%
+          laboursome    0.00300%
+               lacks    0.00300%
+                lads    0.00300%
+            ladyship    0.00300%
+              lament    0.00300%
+             lamound    0.00300%
+                lank    0.00300%
+                laps    0.00300%
+             lapwing    0.00300%
+               large    0.00300%
+              larger    0.00300%
+                lash    0.00300%
+               lasts    0.00300%
+              lawful    0.00300%
+              lawyer    0.00300%
+                lays    0.00300%
+               lazar    0.00300%
+               leads    0.00300%
+                lean    0.00300%
+               leans    0.00300%
+             leaping    0.00300%
+               learn    0.00300%
+            learning    0.00300%
+           lecherous    0.00300%
+             lecture    0.00300%
+                legs    0.00300%
+              lender    0.00300%
+               lends    0.00300%
+              lenten    0.00300%
+            leperous    0.00300%
+              lesser    0.00300%
+              lesson    0.00300%
+               lethe    0.00300%
+              levied    0.00300%
+            lewdness    0.00300%
+                liar    0.00300%
+           libertine    0.00300%
+             license    0.00300%
+                lick    0.00300%
+                lids    0.00300%
+            liegemen    0.00300%
+                lien    0.00300%
+              lifted    0.00300%
+               lifts    0.00300%
+             lighted    0.00300%
+            lightest    0.00300%
+           lightness    0.00300%
+          likelihood    0.00300%
+              likely    0.00300%
+            likeness    0.00300%
+            likewise    0.00300%
+               limed    0.00300%
+                link    0.00300%
+                lion    0.00300%
+              liquid    0.00300%
+                lisp    0.00300%
+               lists    0.00300%
+            littlest    0.00300%
+               lived    0.00300%
+               liver    0.00300%
+                load    0.00300%
+                loan    0.00300%
+           loathsome    0.00300%
+               locks    0.00300%
+                lodg    0.00300%
+               lodge    0.00300%
+               lofty    0.00300%
+             loggets    0.00300%
+               loins    0.00300%
+          loneliness    0.00300%
+              longed    0.00300%
+             looking    0.00300%
+              loosed    0.00300%
+               loser    0.00300%
+               loses    0.00300%
+              losing    0.00300%
+                loss    0.00300%
+                 lot    0.00300%
+              loudly    0.00300%
+               lover    0.00300%
+            lovingly    0.00300%
+                 low    0.00300%
+              lowest    0.00300%
+                  lt    0.00300%
+                 luc    0.00300%
+                 lug    0.00300%
+            lunacies    0.00300%
+              luxury    0.00300%
+               lying    0.00300%
+               magic    0.00300%
+              maimed    0.00300%
+              mainly    0.00300%
+           maintains    0.00300%
+              makers    0.00300%
+        malefactions    0.00300%
+            malhecho    0.00300%
+             mandate    0.00300%
+              manner    0.00300%
+              mantle    0.00300%
+              marble    0.00300%
+            marching    0.00300%
+             margent    0.00300%
+              market    0.00300%
+           marriages    0.00300%
+              marrow    0.00300%
+             marshal    0.00300%
+                mart    0.00300%
+             martial    0.00300%
+              marvel    0.00300%
+             marvell    0.00300%
+          marvellous    0.00300%
+               massy    0.00300%
+            masterly    0.00300%
+               matin    0.00300%
+              matron    0.00300%
+               mayst    0.00300%
+             mazzard    0.00300%
+             meaning    0.00300%
+            meantime    0.00300%
+               meats    0.00300%
+            medicine    0.00300%
+          meditation    0.00300%
+                meed    0.00300%
+              mellow    0.00300%
+           melodious    0.00300%
+                mend    0.00300%
+             mercury    0.00300%
+             mermaid    0.00300%
+           merriment    0.00300%
+             message    0.00300%
+          messengers    0.00300%
+                 met    0.00300%
+               metal    0.00300%
+              metals    0.00300%
+              mettle    0.00300%
+             mettled    0.00300%
+                 mew    0.00300%
+             miching    0.00300%
+            midnight    0.00300%
+            mightier    0.00300%
+           mightiest    0.00300%
+               milch    0.00300%
+              mildew    0.00300%
+                milk    0.00300%
+               milky    0.00300%
+             million    0.00300%
+            millions    0.00300%
+             mincing    0.00300%
+             mineral    0.00300%
+               mines    0.00300%
+              mining    0.00300%
+              minist    0.00300%
+            minister    0.00300%
+           ministers    0.00300%
+              minute    0.00300%
+             minutes    0.00300%
+          miraculous    0.00300%
+            mischief    0.00300%
+                miss    0.00300%
+             mistook    0.00300%
+             mixture    0.00300%
+                moan    0.00300%
+             mockery    0.00300%
+               model    0.00300%
+            moderate    0.00300%
+           modesties    0.00300%
+                 moe    0.00300%
+              moiety    0.00300%
+               moist    0.00300%
+            monarchs    0.00300%
+              monday    0.00300%
+             monster    0.00300%
+            monsters    0.00300%
+           monstrous    0.00300%
+            monument    0.00300%
+                mood    0.00300%
+               moods    0.00300%
+               moons    0.00300%
+                moor    0.00300%
+                mope    0.00300%
+            moreover    0.00300%
+              mortis    0.00300%
+                mote    0.00300%
+             mothers    0.00300%
+               mould    0.00300%
+               moult    0.00300%
+          mountebank    0.00300%
+            mourning    0.00300%
+           mousetrap    0.00300%
+              mouths    0.00300%
+                 mov    0.00300%
+              moving    0.00300%
+                mows    0.00300%
+             muddied    0.00300%
+              mugger    0.00300%
+           multitude    0.00300%
+               musty    0.00300%
+                mute    0.00300%
+              mutine    0.00300%
+            mutinies    0.00300%
+             mystery    0.00300%
+                nage    0.00300%
+               nance    0.00300%
+                nant    0.00300%
+              napkin    0.00300%
+              narrow    0.00300%
+               nasty    0.00300%
+             nations    0.00300%
+               natur    0.00300%
+             natures    0.00300%
+                nave    0.00300%
+         necessaries    0.00300%
+           necessity    0.00300%
+             needful    0.00300%
+            needfull    0.00300%
+                neer    0.00300%
+             neglect    0.00300%
+          negligence    0.00300%
+              nemean    0.00300%
+                nero    0.00300%
+                ners    0.00300%
+               nerve    0.00300%
+             nettles    0.00300%
+             neutral    0.00300%
+               newly    0.00300%
+            nickname    0.00300%
+             niggard    0.00300%
+             nighted    0.00300%
+           nightgown    0.00300%
+             nightly    0.00300%
+                nill    0.00300%
+                ning    0.00300%
+               niobe    0.00300%
+             nipping    0.00300%
+            nobility    0.00300%
+              nobler    0.00300%
+             noblest    0.00300%
+                nods    0.00300%
+          nomination    0.00300%
+                 non    0.00300%
+               nonce    0.00300%
+            normandy    0.00300%
+           northerly    0.00300%
+               noted    0.00300%
+               notes    0.00300%
+             nowhere    0.00300%
+             noyance    0.00300%
+                  nt    0.00300%
+            nutshell    0.00300%
+               nymph    0.00300%
+               oaths    0.00300%
+               obeys    0.00300%
+              object    0.00300%
+             objects    0.00300%
+            oblivion    0.00300%
+             obscure    0.00300%
+           obsequies    0.00300%
+          obsequious    0.00300%
+              observ    0.00300%
+           observant    0.00300%
+         observation    0.00300%
+           observers    0.00300%
+           obstinate    0.00300%
+           occasions    0.00300%
+            occulted    0.00300%
+          occurrents    0.00300%
+               ocean    0.00300%
+               offal    0.00300%
+            offences    0.00300%
+              offend    0.00300%
+          offendendo    0.00300%
+            offender    0.00300%
+             offends    0.00300%
+              office    0.00300%
+            officers    0.00300%
+             offices    0.00300%
+             olympus    0.00300%
+                omen    0.00300%
+             ominous    0.00300%
+                  op    0.00300%
+                 ope    0.00300%
+             operant    0.00300%
+             opinion    0.00300%
+               oppos    0.00300%
+             opposed    0.00300%
+            opposing    0.00300%
+            opposite    0.00300%
+           opposites    0.00300%
+             oppress    0.00300%
+          oppression    0.00300%
+           oppressor    0.00300%
+                 orb    0.00300%
+               orbed    0.00300%
+             orderly    0.00300%
+            ordinant    0.00300%
+                 ore    0.00300%
+             orisons    0.00300%
+                ossa    0.00300%
+         ostentation    0.00300%
+            outbreak    0.00300%
+             outface    0.00300%
+             outlive    0.00300%
+            outlives    0.00300%
+          outrageous    0.00300%
+          outstretch    0.00300%
+            outwards    0.00300%
+            overcame    0.00300%
+            overcome    0.00300%
+            overlook    0.00300%
+         overpeering    0.00300%
+          overthrown    0.00300%
+                 owl    0.00300%
+               owner    0.00300%
+               paces    0.00300%
+              packet    0.00300%
+             packing    0.00300%
+            paddling    0.00300%
+             paddock    0.00300%
+               pagan    0.00300%
+                 pah    0.00300%
+                paid    0.00300%
+                pain    0.00300%
+               paint    0.00300%
+            painting    0.00300%
+           paintings    0.00300%
+              pajock    0.00300%
+               pales    0.00300%
+                pall    0.00300%
+               palmy    0.00300%
+            palpable    0.00300%
+             panders    0.00300%
+               pangs    0.00300%
+             pansies    0.00300%
+             paradox    0.00300%
+             paragon    0.00300%
+            parching    0.00300%
+           parchment    0.00300%
+               paris    0.00300%
+               parle    0.00300%
+              parley    0.00300%
+              parted    0.00300%
+             partial    0.00300%
+            partisan    0.00300%
+               party    0.00300%
+            passages    0.00300%
+              passes    0.00300%
+             passeth    0.00300%
+             pastors    0.00300%
+                 pat    0.00300%
+             patches    0.00300%
+               pated    0.00300%
+                path    0.00300%
+           patiently    0.00300%
+             patrick    0.00300%
+                pays    0.00300%
+                  pe    0.00300%
+                peak    0.00300%
+                peal    0.00300%
+               pearl    0.00300%
+             peating    0.00300%
+             pebbles    0.00300%
+            peculiar    0.00300%
+             peevish    0.00300%
+             pelican    0.00300%
+              pelion    0.00300%
+             pendant    0.00300%
+          penetrable    0.00300%
+              people    0.00300%
+             perceiv    0.00300%
+            perceive    0.00300%
+           perdition    0.00300%
+               perdy    0.00300%
+             perfect    0.00300%
+         perfections    0.00300%
+         performance    0.00300%
+            perilous    0.00300%
+             periwig    0.00300%
+           permanent    0.00300%
+          pernicious    0.00300%
+             perpend    0.00300%
+            persever    0.00300%
+             persons    0.00300%
+            persuade    0.00300%
+           perturbed    0.00300%
+             perusal    0.00300%
+              peruse    0.00300%
+              pester    0.00300%
+          pestilence    0.00300%
+               petar    0.00300%
+            petition    0.00300%
+             phoebus    0.00300%
+              physic    0.00300%
+                pick    0.00300%
+             pickaxe    0.00300%
+            pickaxes    0.00300%
+              picked    0.00300%
+             pickers    0.00300%
+            pictures    0.00300%
+              pieces    0.00300%
+              pierce    0.00300%
+              pigeon    0.00300%
+                pile    0.00300%
+                 pin    0.00300%
+               pinch    0.00300%
+              pioner    0.00300%
+              pirate    0.00300%
+              pitied    0.00300%
+             pitiful    0.00300%
+              placed    0.00300%
+              places    0.00300%
+               plain    0.00300%
+             planets    0.00300%
+               plast    0.00300%
+            plausive    0.00300%
+             plautus    0.00300%
+               plays    0.00300%
+            pleasant    0.00300%
+            pleasing    0.00300%
+              pledge    0.00300%
+           plentiful    0.00300%
+                plot    0.00300%
+                plum    0.00300%
+              plunge    0.00300%
+             plurisy    0.00300%
+                 ply    0.00300%
+              pocket    0.00300%
+               pocky    0.00300%
+                poem    0.00300%
+                poet    0.00300%
+            poisoned    0.00300%
+           poisoning    0.00300%
+             poisons    0.00300%
+             polacks    0.00300%
+              policy    0.00300%
+             politic    0.00300%
+          politician    0.00300%
+                poll    0.00300%
+                pomp    0.00300%
+           ponderous    0.00300%
+            poniards    0.00300%
+                pooh    0.00300%
+                popp    0.00300%
+             porches    0.00300%
+           porcupine    0.00300%
+              portal    0.00300%
+          portentous    0.00300%
+         portraiture    0.00300%
+          positively    0.00300%
+          possession    0.00300%
+              posset    0.00300%
+          postscript    0.00300%
+                posy    0.00300%
+             potency    0.00300%
+            potently    0.00300%
+              potion    0.00300%
+               pound    0.00300%
+          powerfully    0.00300%
+                 pox    0.00300%
+           practices    0.00300%
+             praises    0.00300%
+              pranks    0.00300%
+               prate    0.00300%
+             praying    0.00300%
+           preaching    0.00300%
+           preceding    0.00300%
+            precepts    0.00300%
+           precisely    0.00300%
+            precurse    0.00300%
+         prenominate    0.00300%
+              prepar    0.00300%
+         preparation    0.00300%
+        preparations    0.00300%
+          prescripts    0.00300%
+         presentment    0.00300%
+           preserved    0.00300%
+            pressure    0.00300%
+           pressures    0.00300%
+          prettiness    0.00300%
+                prey    0.00300%
+               pride    0.00300%
+             priests    0.00300%
+              primal    0.00300%
+            primrose    0.00300%
+               primy    0.00300%
+             princes    0.00300%
+             private    0.00300%
+            privates    0.00300%
+               privy    0.00300%
+               prize    0.00300%
+                 pro    0.00300%
+           probation    0.00300%
+           proceeded    0.00300%
+          proceeding    0.00300%
+          procession    0.00300%
+             profane    0.00300%
+           profanely    0.00300%
+          profession    0.00300%
+         profoundest    0.00300%
+            progress    0.00300%
+            prolongs    0.00300%
+          promontory    0.00300%
+            prompted    0.00300%
+           pronounce    0.00300%
+         pronouncing    0.00300%
+           prophetic    0.00300%
+         proportions    0.00300%
+            proposer    0.00300%
+               props    0.00300%
+        prosperously    0.00300%
+             protest    0.00300%
+        protestation    0.00300%
+             proverb    0.00300%
+             provide    0.00300%
+          provincial    0.00300%
+             provoke    0.00300%
+              public    0.00300%
+                pull    0.00300%
+               pulse    0.00300%
+             puppets    0.00300%
+           purchases    0.00300%
+               purer    0.00300%
+                purg    0.00300%
+           purgation    0.00300%
+             purples    0.00300%
+             purport    0.00300%
+             pursued    0.00300%
+            pursuest    0.00300%
+               pursy    0.00300%
+                push    0.00300%
+             puzzles    0.00300%
+            quaintly    0.00300%
+               quake    0.00300%
+           qualifies    0.00300%
+         quarrelling    0.00300%
+              quarry    0.00300%
+             quarter    0.00300%
+               quest    0.00300%
+        questionable    0.00300%
+             quickly    0.00300%
+           quickness    0.00300%
+         quicksilver    0.00300%
+            quiddits    0.00300%
+             quietly    0.00300%
+             quietus    0.00300%
+            quillets    0.00300%
+              quills    0.00300%
+        quintessence    0.00300%
+              quoted    0.00300%
+               quoth    0.00300%
+              rabble    0.00300%
+                race    0.00300%
+                rack    0.00300%
+             radiant    0.00300%
+               rages    0.00300%
+                rags    0.00300%
+                rais    0.00300%
+               rance    0.00300%
+               range    0.00300%
+              rankly    0.00300%
+                rant    0.00300%
+                rare    0.00300%
+            rareness    0.00300%
+              rascal    0.00300%
+              rashly    0.00300%
+            rashness    0.00300%
+            ratified    0.00300%
+           ratifiers    0.00300%
+               ravel    0.00300%
+               raven    0.00300%
+               raves    0.00300%
+                 raw    0.00300%
+               rawer    0.00300%
+                 raz    0.00300%
+                  re    0.00300%
+               reach    0.00300%
+             reaches    0.00300%
+           readiness    0.00300%
+              really    0.00300%
+               realm    0.00300%
+                rear    0.00300%
+           rebellion    0.00300%
+              rebels    0.00300%
+              rebuke    0.00300%
+            receives    0.00300%
+            reckless    0.00300%
+              reckon    0.00300%
+           reckoning    0.00300%
+               recks    0.00300%
+       recognizances    0.00300%
+       reconcilement    0.00300%
+             records    0.00300%
+             recount    0.00300%
+            recovery    0.00300%
+                rede    0.00300%
+           redeliver    0.00300%
+              reechy    0.00300%
+               reels    0.00300%
+             refrain    0.00300%
+             regards    0.00300%
+              reigns    0.00300%
+            relative    0.00300%
+              relief    0.00300%
+            religion    0.00300%
+           religious    0.00300%
+           remainder    0.00300%
+              remedy    0.00300%
+              rememb    0.00300%
+        remembrances    0.00300%
+              remiss    0.00300%
+             remorse    0.00300%
+         remorseless    0.00300%
+             removed    0.00300%
+              render    0.00300%
+          rendezvous    0.00300%
+              repast    0.00300%
+               repel    0.00300%
+          repentance    0.00300%
+         replication    0.00300%
+             replies    0.00300%
+              repose    0.00300%
+           repugnant    0.00300%
+            repulsed    0.00300%
+          reputation    0.00300%
+             request    0.00300%
+             requiem    0.00300%
+            resemble    0.00300%
+           resembles    0.00300%
+              reserv    0.00300%
+             reserve    0.00300%
+           residence    0.00300%
+           resolutes    0.00300%
+          resolution    0.00300%
+             resolve    0.00300%
+              resort    0.00300%
+          respeaking    0.00300%
+            respects    0.00300%
+          responsive    0.00300%
+             restore    0.00300%
+            restrain    0.00300%
+              retain    0.00300%
+          retirement    0.00300%
+             retires    0.00300%
+          retrograde    0.00300%
+           returneth    0.00300%
+              reveal    0.00300%
+               revel    0.00300%
+              revels    0.00300%
+          revengeful    0.00300%
+             revenue    0.00300%
+            reverend    0.00300%
+            reverted    0.00300%
+            revisits    0.00300%
+          revolution    0.00300%
+              reword    0.00300%
+            rhapsody    0.00300%
+               rheum    0.00300%
+                rhym    0.00300%
+              riband    0.00300%
+             rightly    0.00300%
+             riotous    0.00300%
+                ripe    0.00300%
+                rite    0.00300%
+              rivals    0.00300%
+               river    0.00300%
+               rivet    0.00300%
+               roars    0.00300%
+             roasted    0.00300%
+                robe    0.00300%
+               robin    0.00300%
+          robustious    0.00300%
+                rock    0.00300%
+              romage    0.00300%
+                rood    0.00300%
+                roof    0.00300%
+             roscius    0.00300%
+            rosemary    0.00300%
+               roses    0.00300%
+                 rot    0.00300%
+                rots    0.00300%
+               rough    0.00300%
+                 row    0.00300%
+             royally    0.00300%
+                ruin    0.00300%
+                rule    0.00300%
+             running    0.00300%
+              russet    0.00300%
+               rusty    0.00300%
+              sacred    0.00300%
+               sadly    0.00300%
+             sadness    0.00300%
+              salary    0.00300%
+                sale    0.00300%
+             sallets    0.00300%
+          sanctified    0.00300%
+         sanctuarize    0.00300%
+              sandal    0.00300%
+              sanity    0.00300%
+                sans    0.00300%
+                 sat    0.00300%
+           satirical    0.00300%
+        satisfaction    0.00300%
+           satisfied    0.00300%
+               satyr    0.00300%
+          savageness    0.00300%
+             saviour    0.00300%
+             savoury    0.00300%
+                saws    0.00300%
+              saying    0.00300%
+               scann    0.00300%
+               scant    0.00300%
+             scanter    0.00300%
+               scarf    0.00300%
+            scatters    0.00300%
+              scenes    0.00300%
+               scent    0.00300%
+            scholars    0.00300%
+              school    0.00300%
+       schoolfellows    0.00300%
+              sconce    0.00300%
+              scopes    0.00300%
+               scorn    0.00300%
+              scorns    0.00300%
+             scratch    0.00300%
+              screen    0.00300%
+            scrimers    0.00300%
+             scruple    0.00300%
+           scuffling    0.00300%
+            scullion    0.00300%
+                  se    0.00300%
+           seafaring    0.00300%
+               seals    0.00300%
+              search    0.00300%
+                seas    0.00300%
+            seasoned    0.00300%
+             seasons    0.00300%
+              seated    0.00300%
+             secrets    0.00300%
+              seduce    0.00300%
+                seed    0.00300%
+               seest    0.00300%
+                seiz    0.00300%
+              select    0.00300%
+           semblable    0.00300%
+              seneca    0.00300%
+            sensible    0.00300%
+            sensibly    0.00300%
+           sentinels    0.00300%
+           sepulchre    0.00300%
+              sequel    0.00300%
+             sequent    0.00300%
+                sere    0.00300%
+            sergeant    0.00300%
+             serious    0.00300%
+               seven    0.00300%
+             several    0.00300%
+              sewing    0.00300%
+             shadows    0.00300%
+             shaking    0.00300%
+            shameful    0.00300%
+              shards    0.00300%
+               share    0.00300%
+               shark    0.00300%
+               sharp    0.00300%
+             shatter    0.00300%
+               sheen    0.00300%
+               sheep    0.00300%
+          sheepskins    0.00300%
+               sheet    0.00300%
+             sheeted    0.00300%
+              sheets    0.00300%
+               shelf    0.00300%
+               shell    0.00300%
+               shent    0.00300%
+           shepherds    0.00300%
+               shift    0.00300%
+               shine    0.00300%
+             shipped    0.00300%
+         shipwrights    0.00300%
+               shirt    0.00300%
+              shocks    0.00300%
+                shoe    0.00300%
+               shook    0.00300%
+               shoon    0.00300%
+               shoot    0.00300%
+            shortens    0.00300%
+               shove    0.00300%
+              shovel    0.00300%
+             showers    0.00300%
+             showing    0.00300%
+              shreds    0.00300%
+            shrewdly    0.00300%
+              shrill    0.00300%
+            shriving    0.00300%
+              shroud    0.00300%
+           shrouding    0.00300%
+              shrunk    0.00300%
+            shuffled    0.00300%
+                shut    0.00300%
+            sicklied    0.00300%
+               siege    0.00300%
+                sift    0.00300%
+               sighs    0.00300%
+              signet    0.00300%
+              silver    0.00300%
+              simple    0.00300%
+             simples    0.00300%
+            singeing    0.00300%
+             singeth    0.00300%
+             sinners    0.00300%
+                sins    0.00300%
+             sipping    0.00300%
+              sirrah    0.00300%
+             sitting    0.00300%
+             sixteen    0.00300%
+                 siz    0.00300%
+                skin    0.00300%
+              skirts    0.00300%
+              skyish    0.00300%
+            slanders    0.00300%
+          slaughters    0.00300%
+                slay    0.00300%
+             sledded    0.00300%
+             sleeper    0.00300%
+             slender    0.00300%
+              slight    0.00300%
+              slings    0.00300%
+               slips    0.00300%
+              sliver    0.00300%
+               small    0.00300%
+               smart    0.00300%
+               smear    0.00300%
+            smelling    0.00300%
+              smells    0.00300%
+               smelt    0.00300%
+              smiles    0.00300%
+          smoothness    0.00300%
+               smote    0.00300%
+            snatches    0.00300%
+               snuff    0.00300%
+               soaks    0.00300%
+               sober    0.00300%
+             society    0.00300%
+                 soe    0.00300%
+              softly    0.00300%
+                sold    0.00300%
+                sole    0.00300%
+               soles    0.00300%
+           solicited    0.00300%
+         solicitings    0.00300%
+               solid    0.00300%
+            solidity    0.00300%
+             somever    0.00300%
+                song    0.00300%
+                sons    0.00300%
+                soon    0.00300%
+             sorrows    0.00300%
+               sorts    0.00300%
+             sounded    0.00300%
+            sounding    0.00300%
+              sounds    0.00300%
+           southerly    0.00300%
+         sovereignty    0.00300%
+               space    0.00300%
+            spacious    0.00300%
+              spades    0.00300%
+               spake    0.00300%
+               spark    0.00300%
+             sparrow    0.00300%
+          spectators    0.00300%
+            speeches    0.00300%
+          speechless    0.00300%
+            speedier    0.00300%
+              speedy    0.00300%
+               spend    0.00300%
+         spendthrift    0.00300%
+               spent    0.00300%
+              sphere    0.00300%
+             spheres    0.00300%
+               spies    0.00300%
+              spills    0.00300%
+               spilt    0.00300%
+               spite    0.00300%
+          splenitive    0.00300%
+               split    0.00300%
+               spots    0.00300%
+             spreads    0.00300%
+             springe    0.00300%
+            springes    0.00300%
+             springs    0.00300%
+            sprinkle    0.00300%
+              sprung    0.00300%
+                spur    0.00300%
+              squeak    0.00300%
+           squeezing    0.00300%
+               staff    0.00300%
+              stages    0.00300%
+               staid    0.00300%
+               stain    0.00300%
+               stair    0.00300%
+               stake    0.00300%
+               stale    0.00300%
+               stalk    0.00300%
+              stalks    0.00300%
+            standing    0.00300%
+             started    0.00300%
+             stately    0.00300%
+            statists    0.00300%
+            statutes    0.00300%
+               stays    0.00300%
+               steal    0.00300%
+            stealers    0.00300%
+            stealing    0.00300%
+              steals    0.00300%
+               steps    0.00300%
+             sterile    0.00300%
+            sterling    0.00300%
+               stern    0.00300%
+                stew    0.00300%
+             steward    0.00300%
+              sticks    0.00300%
+             stiffly    0.00300%
+               stirr    0.00300%
+            stirring    0.00300%
+              stithy    0.00300%
+               stock    0.00300%
+           stockings    0.00300%
+             stomach    0.00300%
+              stones    0.00300%
+             stonish    0.00300%
+            stooping    0.00300%
+              stoops    0.00300%
+            stopping    0.00300%
+               storm    0.00300%
+               stoup    0.00300%
+              stoups    0.00300%
+                stow    0.00300%
+            stranger    0.00300%
+              straws    0.00300%
+              stream    0.00300%
+          strengthen    0.00300%
+          strewments    0.00300%
+              strife    0.00300%
+             strikes    0.00300%
+            striking    0.00300%
+             strings    0.00300%
+             strokes    0.00300%
+           strongest    0.00300%
+            strucken    0.00300%
+          struggling    0.00300%
+            strutted    0.00300%
+            stubborn    0.00300%
+        stubbornness    0.00300%
+               stuck    0.00300%
+             student    0.00300%
+               study    0.00300%
+               stung    0.00300%
+                 sty    0.00300%
+            subscrib    0.00300%
+          successive    0.00300%
+            suddenly    0.00300%
+               sugar    0.00300%
+             suiting    0.00300%
+             sullies    0.00300%
+               sulph    0.00300%
+             summons    0.00300%
+              sunday    0.00300%
+             sundays    0.00300%
+         superfluous    0.00300%
+           supervise    0.00300%
+          suppliance    0.00300%
+              supply    0.00300%
+            supposal    0.00300%
+              surely    0.00300%
+             surmise    0.00300%
+           surprised    0.00300%
+           surrender    0.00300%
+            survivor    0.00300%
+         suspiration    0.00300%
+             sustain    0.00300%
+           swaddling    0.00300%
+               swagg    0.00300%
+           swallowed    0.00300%
+              sweaty    0.00300%
+          sweepstake    0.00300%
+              sweets    0.00300%
+             swinish    0.00300%
+            switzers    0.00300%
+              swords    0.00300%
+               swore    0.00300%
+               synod    0.00300%
+               taint    0.00300%
+              taints    0.00300%
+                tann    0.00300%
+              tanner    0.00300%
+              target    0.00300%
+               tarre    0.00300%
+                task    0.00300%
+               taste    0.00300%
+             tatters    0.00300%
+         tediousness    0.00300%
+               tells    0.00300%
+              tellus    0.00300%
+              temper    0.00300%
+          temperance    0.00300%
+         temperately    0.00300%
+             tempest    0.00300%
+              temple    0.00300%
+             tenable    0.00300%
+          tenantless    0.00300%
+             tenants    0.00300%
+              tennis    0.00300%
+                tent    0.00300%
+             tenures    0.00300%
+           termagant    0.00300%
+                test    0.00300%
+              tether    0.00300%
+              tetter    0.00300%
+                thaw    0.00300%
+             theatre    0.00300%
+               theft    0.00300%
+          thereabout    0.00300%
+             therein    0.00300%
+             thereof    0.00300%
+             thereon    0.00300%
+             thereto    0.00300%
+           thereunto    0.00300%
+               thews    0.00300%
+             thicker    0.00300%
+             thieves    0.00300%
+                thin    0.00300%
+              thinks    0.00300%
+            thirties    0.00300%
+              thorns    0.00300%
+              thorny    0.00300%
+              thrall    0.00300%
+              threat    0.00300%
+            threaten    0.00300%
+             threats    0.00300%
+           throughly    0.00300%
+            throwing    0.00300%
+              thumbs    0.00300%
+            thunders    0.00300%
+              tickle    0.00300%
+              timber    0.00300%
+               tinct    0.00300%
+               tithe    0.00300%
+                toil    0.00300%
+               toils    0.00300%
+              tokens    0.00300%
+                tomb    0.00300%
+                topp    0.00300%
+             torches    0.00300%
+          tormenting    0.00300%
+             torrent    0.00300%
+               total    0.00300%
+             touches    0.00300%
+                 tow    0.00300%
+                town    0.00300%
+                toys    0.00300%
+              traduc    0.00300%
+          tragedians    0.00300%
+              trains    0.00300%
+          traitorous    0.00300%
+           transform    0.00300%
+      transformation    0.00300%
+          transports    0.00300%
+           trappings    0.00300%
+           traveller    0.00300%
+               tread    0.00300%
+              treads    0.00300%
+            trespass    0.00300%
+           tributary    0.00300%
+               tried    0.00300%
+              trifle    0.00300%
+            trifling    0.00300%
+                trip    0.00300%
+          trippingly    0.00300%
+            tristful    0.00300%
+             triumph    0.00300%
+             trivial    0.00300%
+            trophies    0.00300%
+              trophy    0.00300%
+          tropically    0.00300%
+           truepenny    0.00300%
+           truncheon    0.00300%
+             truster    0.00300%
+             tugging    0.00300%
+             tumbled    0.00300%
+               tunes    0.00300%
+           turbulent    0.00300%
+                turf    0.00300%
+                turk    0.00300%
+             turneth    0.00300%
+               turns    0.00300%
+               tutor    0.00300%
+              tweaks    0.00300%
+               tween    0.00300%
+           twentieth    0.00300%
+             twofold    0.00300%
+              twould    0.00300%
+        tyrannically    0.00300%
+           tyrannous    0.00300%
+              tyrant    0.00300%
+              ubique    0.00300%
+                ugly    0.00300%
+               ulcer    0.00300%
+            ulcerous    0.00300%
+             umbrage    0.00300%
+              unanel    0.00300%
+              unbrac    0.00300%
+            uncharge    0.00300%
+           uncurrent    0.00300%
+             undergo    0.00300%
+        undertakings    0.00300%
+          undiscover    0.00300%
+                undo    0.00300%
+         uneffectual    0.00300%
+             unequal    0.00300%
+          unfellowed    0.00300%
+             unfledg    0.00300%
+              unforc    0.00300%
+         unfortified    0.00300%
+            ungalled    0.00300%
+              ungart    0.00300%
+               ungor    0.00300%
+          ungracious    0.00300%
+              unhand    0.00300%
+           unhappily    0.00300%
+              unholy    0.00300%
+              unhous    0.00300%
+          unimproved    0.00300%
+               unite    0.00300%
+            unkennel    0.00300%
+              unkind    0.00300%
+           unknowing    0.00300%
+           unlimited    0.00300%
+             unmanly    0.00300%
+          unmannerly    0.00300%
+              unmask    0.00300%
+              unmast    0.00300%
+             unmatch    0.00300%
+               unmix    0.00300%
+            unnerved    0.00300%
+              unpack    0.00300%
+               unpeg    0.00300%
+          unpolluted    0.00300%
+          unpregnant    0.00300%
+        unprevailing    0.00300%
+        unprofitable    0.00300%
+        unproportion    0.00300%
+         unreclaimed    0.00300%
+         unrighteous    0.00300%
+              unripe    0.00300%
+        unsanctified    0.00300%
+         unsatisfied    0.00300%
+            unschool    0.00300%
+              unseal    0.00300%
+            unshaken    0.00300%
+            unshaped    0.00300%
+            unsifted    0.00300%
+             unsinew    0.00300%
+           unskilful    0.00300%
+          unsmirched    0.00300%
+              unsure    0.00300%
+               until    0.00300%
+            untimely    0.00300%
+                unus    0.00300%
+            unvalued    0.00300%
+             unwatch    0.00300%
+            unweeded    0.00300%
+         unwholesome    0.00300%
+           unwilling    0.00300%
+         unworthiest    0.00300%
+             unwrung    0.00300%
+              unyoke    0.00300%
+           uphoarded    0.00300%
+              upshot    0.00300%
+            upspring    0.00300%
+               usual    0.00300%
+               utter    0.00300%
+             vacancy    0.00300%
+              vailed    0.00300%
+                vain    0.00300%
+              valanc    0.00300%
+            validity    0.00300%
+              valour    0.00300%
+              vanish    0.00300%
+          vanquisher    0.00300%
+             vapours    0.00300%
+             varnish    0.00300%
+                vast    0.00300%
+            ventages    0.00300%
+              verity    0.00300%
+               verse    0.00300%
+                  vi    0.00300%
+                vial    0.00300%
+             vicious    0.00300%
+           videlicet    0.00300%
+              vienna    0.00300%
+              vigour    0.00300%
+                 vii    0.00300%
+           villanies    0.00300%
+           villanous    0.00300%
+             villany    0.00300%
+              violet    0.00300%
+              virgin    0.00300%
+            virtuous    0.00300%
+              vision    0.00300%
+              volley    0.00300%
+              volume    0.00300%
+               vouch    0.00300%
+              vulcan    0.00300%
+               waist    0.00300%
+               waits    0.00300%
+                wake    0.00300%
+                wall    0.00300%
+                wand    0.00300%
+                wann    0.00300%
+          wantonness    0.00300%
+               wards    0.00300%
+               warms    0.00300%
+             warning    0.00300%
+                warr    0.00300%
+            warranty    0.00300%
+                wart    0.00300%
+             wassail    0.00300%
+               waste    0.00300%
+            watchman    0.00300%
+            waterfly    0.00300%
+              waving    0.00300%
+              weaker    0.00300%
+             weakest    0.00300%
+                weal    0.00300%
+              wealth    0.00300%
+             weapons    0.00300%
+             wearing    0.00300%
+             wedding    0.00300%
+                weed    0.00300%
+               weedy    0.00300%
+                week    0.00300%
+             weeping    0.00300%
+               weeps    0.00300%
+            weighing    0.00300%
+              weight    0.00300%
+            westward    0.00300%
+               wharf    0.00300%
+          whatsoever    0.00300%
+                 whe    0.00300%
+             wheaten    0.00300%
+              whence    0.00300%
+          whensoever    0.00300%
+             whereat    0.00300%
+                whet    0.00300%
+               whiff    0.00300%
+               whine    0.00300%
+               whipp    0.00300%
+            whipping    0.00300%
+            whirling    0.00300%
+           whirlwind    0.00300%
+            whispers    0.00300%
+                whit    0.00300%
+             whither    0.00300%
+                whor    0.00300%
+               whore    0.00300%
+                wick    0.00300%
+               widow    0.00300%
+            wildness    0.00300%
+            wilfully    0.00300%
+              willow    0.00300%
+               wills    0.00300%
+               winch    0.00300%
+          windlasses    0.00300%
+              window    0.00300%
+               windy    0.00300%
+                wing    0.00300%
+             winking    0.00300%
+               winks    0.00300%
+              winner    0.00300%
+            winnowed    0.00300%
+              winter    0.00300%
+             wisdoms    0.00300%
+              wishes    0.00300%
+               witch    0.00300%
+            witching    0.00300%
+            withdrew    0.00300%
+              wither    0.00300%
+             withers    0.00300%
+                womb    0.00300%
+               women    0.00300%
+                 won    0.00300%
+                wood    0.00300%
+            woodcock    0.00300%
+           woodcocks    0.00300%
+               wooes    0.00300%
+                wore    0.00300%
+               worms    0.00300%
+                worn    0.00300%
+              worser    0.00300%
+               worst    0.00300%
+              worthy    0.00300%
+                 wot    0.00300%
+           woundless    0.00300%
+               wrack    0.00300%
+                wrap    0.00300%
+               wrath    0.00300%
+               wring    0.00300%
+            wringing    0.00300%
+            wrinkled    0.00300%
+               wrist    0.00300%
+               write    0.00300%
+             writers    0.00300%
+              writes    0.00300%
+             written    0.00300%
+               wrung    0.00300%
+                yard    0.00300%
+             yaughan    0.00300%
+                 yaw    0.00300%
+                yawn    0.00300%
+              yeoman    0.00300%
+           yesterday    0.00300%
+         yesternight    0.00300%
+               yesty    0.00300%
+            yielding    0.00300%
+                 yon    0.00300%
+                yond    0.00300%
+             younger    0.00300%
+          yourselves    0.00300%
+                zone    0.00300%
+The correlator number: 0.0025875596192730774(%^2)
+It took 1 seconds to tokenize, sort and count the words in the file hamlet.txt
+It took 1 seconds tokenize, sort and count the words in the file the-new-atlantis.txt
