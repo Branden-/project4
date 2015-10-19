@@ -1,4 +1,7 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * An executable that counts the words in a files and prints out the counts in
@@ -6,9 +9,44 @@ import java.io.IOException;
  */
 public class WordCount {
 
-    public static DataCount<String>[] countWords(String file, String flag) {
+    public static DataCount<String>[] countWords(String file, String flag){
+        DataCounter<String> counter;
+        switch(flag){
+            case "-b":
+                counter = new BinarySearchTree<String>();
+                break;
+            case "-a":
+                counter = new AVLTree<String>();
+                break;
+            case "-h":
+                counter = new HashTable();
+
+            default: counter = new HashTable();
+        }
+
+
+
+        try {
+            FileWordReader reader = new FileWordReader(file);
+            String word = reader.nextWord();
+            while (word != null) {
+                counter.incCount(word);
+                word = reader.nextWord();
+            }
+        } catch (IOException e) {
+            System.err.println("Error processing " + file + e);
+            System.exit(1);
+        }
+
+        DataCount<String>[] counts = counter.getCounts();
+        sortByDescendingCount(counts);
+
+        return counts;
+    }
+
+    public static DataCount<String>[] countWords(String flag1, String flag2, String flag3, String file) {
     	 DataCounter<String> counter;
-    	 switch(flag){
+    	 switch(flag1){
     	 	case "-b": 
     	 		counter = new BinarySearchTree<String>();
     	 		break;
@@ -20,6 +58,8 @@ public class WordCount {
     	 		
     	 	default: counter = new HashTable();
     	 }
+
+
     	 
         try {
             FileWordReader reader = new FileWordReader(file);
@@ -80,14 +120,22 @@ public class WordCount {
             System.out.println(c.count + " \t" + c.data);
     }
 
-    public static void main(String[] args) {
-        if (args.length != 2) {
-        	System.err.println("Incorrect number of arguments");
-            System.err.println("Usage: ");
-            System.err.println("java WordCount [FILENAME]  -[OPTION]");
+    public static String openFile(String filename) throws FileNotFoundException {
+        String fileOutput;
+        File inputFile = new File(filename);
+        //read entire text file by using end of file delimiter
+        fileOutput = new Scanner(inputFile).useDelimiter("\\Z").next();
+
+        return fileOutput;
+    }
+
+    public static void main(String[] args) throws FileNotFoundException {
+        if (args.length != 4) {
+            String filename = "WordCountCommandlineErrorMsg.txt";
+            System.err.println(openFile(filename));
             System.exit(1);
         }
         
-        printWords(countWords(args[0], args[1]));
+        printWords(countWords(args[0], args[1], args[2], args[3]));
     }
 }
