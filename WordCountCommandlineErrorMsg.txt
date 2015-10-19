@@ -1,0 +1,33 @@
+Incorrect number of arguments
+Usage: java WordCount -[-a | -b | -h ] -[ -frequency | -num_unique] -[-is | -qs | -ms] [FILENAME]
+
+Must provide three arguments and a filename
+
+Argument descriptions
+
+    -[argument1]
+    -a Use an AVL Tree
+    -b Use an Unbalanced BST to implement the DataCounter
+    -h Use a Hashtable
+
+    -[argument2]
+    -frequency  Print all the word/frequency pairs, ordered by frequency,
+                and then by words in lexicographic order
+    -num_unique Print the number of unique words in the document. This
+                is the total number of distinct (different) words in
+                the document. Words that appear more than once are only
+                counted as a single word for this statistic.
+
+    -[argument3]
+    -is use insertion sort
+    -qs use quicksort
+    -ms use merge sort
+
+Example:
+    java WordCount -b -frequency -qs sometextFile.txt
+
+What is happening in the example:
+    Runs WordCount program using an unbalanced binary search tree data
+    structure and will print out the frequency of the words in lexicographic
+    order. The program will use quicksort. The program will perform the
+    operations using text from the sometextFile.txt text file.

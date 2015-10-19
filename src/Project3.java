@@ -1,4 +1,4 @@
-
+import java.io.FileNotFoundException;
 
 public class Project3 {
 
@@ -32,7 +32,7 @@ public class Project3 {
 		table.printHashTable();
 	}
 	
-	static void testWordCount(){
+	static void testWordCount() throws FileNotFoundException{
 		String[] cmd = {"hamlet.txt", "-b"};
 		WordCount.main(cmd);
 	}
