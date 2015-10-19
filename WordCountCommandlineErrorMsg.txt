@@ -26,7 +26,7 @@ Argument descriptions
 Example:
     java WordCount -b -frequency -qs sometextFile.txt
 
-What it does:
+What is happening in the example:
     Runs WordCount program using an unbalanced binary search tree data
     structure and will print out the frequency of the words in lexicographic
     order. The program will use quicksort. The program will perform the
