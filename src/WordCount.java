@@ -1,4 +1,7 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * An executable that counts the words in a files and prints out the counts in
@@ -6,9 +9,60 @@ import java.io.IOException;
  */
 public class WordCount {
 
-    public static DataCount<String>[] countWords(String file, String flag) {
+    /**
+     * Reads in a text file and tally's up all the words that appear in it
+     * this particular method has been deprecated for project 4
+     * @param file filename (if not in project directory, must include path)
+     * @param flag the commandline option
+     * @return a string array of words that includes the frequency of the each word
+     */
+    public static DataCount<String>[] countWords(String file, String flag){
+        DataCounter<String> counter;
+        switch(flag){
+            case "-b":
+                counter = new BinarySearchTree<String>();
+                break;
+            case "-a":
+                counter = new AVLTree<String>();
+                break;
+            case "-h":
+                counter = new HashTable();
+
+            default: counter = new HashTable();
+        }
+
+
+
+        try {
+            FileWordReader reader = new FileWordReader(file);
+            String word = reader.nextWord();
+            while (word != null) {
+                counter.incCount(word);
+                word = reader.nextWord();
+            }
+        } catch (IOException e) {
+            System.err.println("Error processing " + file + e);
+            System.exit(1);
+        }
+
+        DataCount<String>[] counts = counter.getCounts();
+        insertionSortByDescendingCount(counts);
+
+        return counts;
+    }
+
+    /**
+     * Reads in a text file and tally's up all the words that appear in it.
+     * Method will use different data structures, and sorting methods depending
+     * on what options are passed adn print according to the second option.
+     * @param dataStructure use -a, -b or -h to choose AVL tree, unbalanced binary search tree or hashtable respectively
+     * @param sortMethod -is, -qs, or -ms to use insertion sort, quicksort or merger sort respectively
+     * @param file filename (if not in project directory include path)
+     * @return sorted string array of the words and their frequencies/number of unique words
+     */
+    public static DataCount<String>[] countWords(String dataStructure, String sortMethod, String file) {
     	 DataCounter<String> counter;
-    	 switch(flag){
+    	 switch(dataStructure){
     	 	case "-b": 
     	 		counter = new BinarySearchTree<String>();
     	 		break;
@@ -20,6 +74,10 @@ public class WordCount {
     	 		
     	 	default: counter = new HashTable();
     	 }
+
+
+
+
     	 
         try {
             FileWordReader reader = new FileWordReader(file);
@@ -34,14 +92,26 @@ public class WordCount {
         }
         
         DataCount<String>[] counts = counter.getCounts();
-        sortByDescendingCount(counts);
+        switch (sortMethod){
+            case "-is":
+                insertionSortByDescendingCount(counts);
+                break;
+            case "-qs":
+                quickSortByDescendingCount(counts);
+                break;
+            case "-ms":
+                mergeSortByDescendingCount(counts);
+                break;
+            default: insertionSortByDescendingCount(counts);
+        }
+
         
         return counts;
     }
 
     /**
-     * TODO Replace this comment with your own.
-     * 
+     * insertion sort
+     *
      * Sort the count array in descending order of count. If two elements have
      * the same count, they should be in alphabetical order (for Strings, that
      * is. In general, use the compareTo method for the DataCount.data field).
@@ -57,7 +127,7 @@ public class WordCount {
      * 
      * @param counts array to be sorted.
      */
-    private static <E extends Comparable<? super E>> void sortByDescendingCount(
+    private static <E extends Comparable<? super E>> void insertionSortByDescendingCount(
             DataCount<E>[] counts) {
         for (int i = 0; i < counts.length; i++) {
             DataCount<E> x = counts[i];
@@ -74,20 +144,67 @@ public class WordCount {
             counts[j + 1] = x;
         }
     }
+
+    /**
+     *
+     * @param counts
+     * @param <E>
+     */
+    private static <E extends Comparable<? super E>> void quickSortByDescendingCount(
+            DataCount<E>[] counts) {
+        //STUB put your code here
+    }
+
+    /**
+     *
+     * @param counts
+     * @param <E>
+     */
+    private static <E extends Comparable<? super E>> void mergeSortByDescendingCount(
+            DataCount<E>[] counts) {
+        //STUB put your code here
+    }
+
+
     
     public static <E extends Comparable<? super E>> void printWords(DataCount<E>[] counts){
     	for (DataCount<E> c : counts)
             System.out.println(c.count + " \t" + c.data);
     }
 
-    public static void main(String[] args) {
-        if (args.length != 2) {
-        	System.err.println("Incorrect number of arguments");
-            System.err.println("Usage: ");
-            System.err.println("java WordCount [FILENAME]  -[OPTION]");
+    public static String openFile(String filename) throws FileNotFoundException {
+        String fileOutput = "";
+        try {
+            File inputFile = new File(filename);
+            //read entire text file by using end of file delimiter
+            fileOutput = new Scanner(inputFile).useDelimiter("\\Z").next();
+        }
+        catch (FileNotFoundException F){
+            System.err.println("Error message missing, Bad programmer!");
             System.exit(1);
         }
-        
-        printWords(countWords(args[0], args[1]));
+
+        return fileOutput;
+    }
+
+    public static void main(String[] args) throws FileNotFoundException {
+        if (args.length != 4) {
+            String filename = "WordCountCommandlineErrorMsg.txt";
+            System.err.println(openFile(filename));
+            System.exit(1);
+        }
+
+        switch (args[1]){
+            case "-frequency":
+                printWords(countWords(args[0], args[2], args[3]));
+                break;
+            case "-num_unique":
+                System.out.println("There are " +
+                        countWords(args[0], args[2], args[3]).length + " unique words.");
+                break;
+            default: printWords(countWords(args[0], args[2], args[3]));
+        }
+
+
     }
 }
