@@ -149,8 +149,36 @@ public class WordCount {
      */
     private static <E extends Comparable<? super E>> void quickSortByDescendingCount(
             DataCount<E>[] counts) {
-        //STUB put your code here
+
     }
+
+    private static DataCount<E extends Comparable<? super E>>
+     median3( DataCount<E>[] a, int left, int right){
+        int center = (left + right)/2;
+        if (a[right].data > a[left].data) {
+            //swapReferences
+        }
+        return a[0];
+    }
+
+    private static <E extends Comparable<? super E>>
+    void quicksort( DataCount<E>[] a, int left, int right){
+        int CUTOFF = 10;
+        if( left + CUTOFF <= right){
+            DataCount<E> pivot = median3( a, left, right);
+
+            //Begin partitioning
+            int i = left, j = right - 1;
+
+            for(;;){
+                while( a[++i].count < pivot.count){}
+                while( a[--j].count > pivot.count){}
+            }
+        }
+
+
+    }
+
 
     /**
      * Sort the count array in descending order using the merge sort algorithm.
@@ -159,7 +187,7 @@ public class WordCount {
      */
     private static <E extends Comparable<? super E>> void mergeSortByDescendingCount(
             DataCount<E>[] counts) {
-        DataCount<E> [] tmpArray = (DataCount<E> []) new DataCount<E>()[counts.length];
+        DataCount<E> [] tmpArray = (DataCount<E>) new DataCount<E extends Comparable<? super E>>[counts.length];
 
         mergeSortDescending(counts, tmpArray, 0, counts.length - 1);
     }
