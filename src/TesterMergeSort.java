@@ -8,7 +8,7 @@ public class TesterMergeSort {
 
     public static void main(String args[]) throws FileNotFoundException{
         String[] argument1 = {"-a", "-b", "h"};
-        String[] argument2 = {"-frequency", "-num_unique"};
+        String[] argument2 = {"-frequency"};
         String[] argument3 = {"-ms"};
         String filename = "hamlet.txt";
         String[] completeArguments = new String[4];

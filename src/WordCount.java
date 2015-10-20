@@ -1,7 +1,9 @@
+import javax.activation.DataContentHandler;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
@@ -159,7 +161,7 @@ public class WordCount {
      */
     private static <E extends Comparable<? super E>> void mergeSortByDescendingCount(
             DataCount<E>[] counts) {
-        DataCount<E> [] tmpArray = (DataCount<E> []) new DataCount<E>()[counts.length];
+        ArrayList<DataCount<E>> tmpArray = new ArrayList<>(counts.length);
 
         mergeSortDescending(counts, tmpArray, 0, counts.length - 1);
     }
@@ -174,7 +176,7 @@ public class WordCount {
      * @param <E> generic data type
      */
     private static <E extends Comparable<? super E>>
-    void mergeSortDescending(DataCount<E> [] a, DataCount<E> [] tmpArray, int left, int right){
+    void mergeSortDescending(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray, int left, int right){
         if(left < right) {
             int center = (left + right) / 2;
             mergeSortDescending(a, tmpArray, left, center);
@@ -193,43 +195,44 @@ public class WordCount {
      * @param <E>
      */
     private static <E extends Comparable<? super E>>
-    void merge(DataCount<E> [] a, DataCount<E> [] tmpArray, int leftPos, int rightPos, int rightEnd){
+    void merge(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray, int leftPos, int rightPos, int rightEnd){
         int leftEnd = rightPos - 1;
-        int tmpPos = leftPos;
+        //int tmpPos = leftPos;
         int numElements = rightEnd - leftPos + 1;
 
         //cycle through sub arrays and do comparisons filling the tmpArray
         //this does our real sorting
         while( leftPos <= leftEnd && rightPos <= rightEnd ){ //sort according to count, larger first
             if( a[leftPos].count > a[rightPos].count ){
-                tmpArray [ tmpPos++ ] = a[ leftPos++ ];
+                tmpArray.add( a[ leftPos++ ]);
+                //tmpPos++;
             }
             else if( a[leftPos].count == a[rightPos].count ){ //counts are equal, sort alphabetically
-                if( a[leftPos].data.compareTo( a[rightPos].data ) >= 0 ){
-                    tmpArray [ tmpPos++ ] = a[ leftPos++ ];
+                if( a[leftPos].data.compareTo( a[rightPos].data ) <= 0 ){
+                    tmpArray.add( a[ leftPos++ ]);
                 }
                 else {
-                    tmpArray [ tmpPos++ ] = a[ rightPos++ ];
+                    tmpArray.add( a[ rightPos++ ]);
                 }
             }
             else {
-                tmpArray [ tmpPos++ ] = a[ rightPos++ ];
+                tmpArray.add( a[ rightPos++ ] );
             }
         }
 
         //Copy rest of first half if any left
         while( leftPos <= leftEnd ){
-            tmpArray[ tmpPos++ ] = a[ leftPos++ ];
+            tmpArray.add( a[ leftPos++ ]);
         }
 
         //copy rest of right half if any left
         while( rightPos <= rightEnd ){
-            tmpArray[ tmpPos++ ] = a[ leftPos++ ];
+            tmpArray.add( a[ rightPos++ ]);
         }
 
         //Copy tmpArray back
         for(int i = 0; i < numElements; i++, rightEnd-- ){
-            a[ rightEnd ] = tmpArray[ rightEnd ];
+            a[ rightEnd ] = tmpArray.get(rightEnd);
         }
 
 
