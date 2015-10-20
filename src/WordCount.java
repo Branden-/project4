@@ -197,37 +197,38 @@ public class WordCount {
     private static <E extends Comparable<? super E>>
     void merge(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray, int leftPos, int rightPos, int rightEnd){
         int leftEnd = rightPos - 1;
-        //int tmpPos = leftPos;
+        int tmpPos = leftPos;
         int numElements = rightEnd - leftPos + 1;
 
         //cycle through sub arrays and do comparisons filling the tmpArray
         //this does our real sorting
         while( leftPos <= leftEnd && rightPos <= rightEnd ){ //sort according to count, larger first
             if( a[leftPos].count > a[rightPos].count ){
-                tmpArray.add( a[ leftPos++ ]);
-                //tmpPos++;
+                tmpArray.add(tmpPos++, a[ leftPos++ ]);
+
+
             }
             else if( a[leftPos].count == a[rightPos].count ){ //counts are equal, sort alphabetically
                 if( a[leftPos].data.compareTo( a[rightPos].data ) <= 0 ){
-                    tmpArray.add( a[ leftPos++ ]);
+                    tmpArray.add(tmpPos++, a[ leftPos++ ]);
                 }
                 else {
-                    tmpArray.add( a[ rightPos++ ]);
+                    tmpArray.add(tmpPos++, a[ rightPos++ ]);
                 }
             }
             else {
-                tmpArray.add( a[ rightPos++ ] );
+                tmpArray.add(tmpPos++, a[ rightPos++ ] );
             }
         }
 
         //Copy rest of first half if any left
         while( leftPos <= leftEnd ){
-            tmpArray.add( a[ leftPos++ ]);
+            tmpArray.add(tmpPos++, a[ leftPos++ ]);
         }
 
         //copy rest of right half if any left
         while( rightPos <= rightEnd ){
-            tmpArray.add( a[ rightPos++ ]);
+            tmpArray.add(tmpPos++, a[ rightPos++ ]);
         }
 
         //Copy tmpArray back
