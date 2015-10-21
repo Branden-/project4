@@ -151,7 +151,52 @@ public class WordCount {
      */
     private static <E extends Comparable<? super E>> void quickSortByDescendingCount(
             DataCount<E>[] counts) {
-        //STUB put your code here
+        quickSortDes(counts, 0, counts.length - 1);
+    }
+    
+    private static <E extends Comparable<? super E>> void quickSortDes(
+    		DataCount<E>[] list, int low, int high){
+    	int i = low;
+    	int j = high;
+    	int mid = low + (high - low) / 2;
+    	int pivot = 0;
+    	int max = 0;
+    	
+    	// Getting pivot using median between 3 members
+    	if (compare2DataCounts(list[i], list[j]) >= 0 ){
+    		max = i;
+    	}
+    	else 
+    		max = j;
+    	
+    	if (compare2DataCounts(list[max], list[mid]) >= 0){
+    		pivot = mid;
+    	}
+    	else
+    		pivot = max;
+    	
+    	//Putting the pivot in the middle
+    	exchange2DataCounts(list[mid], list[pivot]);
+    	
+    	while(i <= j){
+    		while (compare2DataCounts(list[i], list[mid]) > 0){
+    			i++;
+    		}
+    		while (compare2DataCounts(list[j], list[mid]) < 0){
+    			j--;
+    		}
+    		if (i <= j){
+    			exchange2DataCounts(list[i], list[j]);
+    			i++;
+    			j--;
+    		}
+    	}
+    	
+    	if (low < j)
+    		quickSortDes(list, low, j);
+    	if (high > i)
+    		quickSortDes(list, i, high);	
+    	
     }
 
     /**
@@ -259,6 +304,32 @@ public class WordCount {
         }
 
         return fileOutput;
+    }
+    
+    private static <E extends Comparable<? super E>> int compare2DataCounts(
+    		DataCount<E> data1, DataCount<E> data2){
+    	
+    	if (data1.count > data2.count ||
+    		(data1.count == data2.count && data1.data.compareTo(data2.data) < 0) ){
+    		return 1;
+    	}
+    	else if (data1.count == data2.count &&
+    			 data1.data.compareTo(data2.data) == 0){
+    		return 0;
+    	}
+    	return -1;
+    }
+    
+    private static <E extends Comparable<? super E>> void exchange2DataCounts(
+    		DataCount<E> data1, DataCount<E> data2){
+    	
+    	DataCount<E> temp = new DataCount<E>(data1.data, data1.count);
+    	data1.data = data2.data;
+    	data1.count = data2.count;
+    	
+    	data2.data = temp.data;
+    	data2.count = temp.count;
+    	
     }
 
     public static void main(String[] args) throws FileNotFoundException {
