@@ -151,7 +151,6 @@ public class WordCount {
      */
     private static <E extends Comparable<? super E>> void quickSortByDescendingCount(
             DataCount<E>[] counts) {
-        //STUB put your code here
     }
 
     /**
