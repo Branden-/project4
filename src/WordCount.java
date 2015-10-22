@@ -63,7 +63,8 @@ public class WordCount {
      * @param file filename (if not in project directory include path)
      * @return sorted string array of the words and their frequencies/number of unique words
      */
-    public static DataCount<String>[] countWords(String dataStructure, String sortMethod, String file) {
+    public static DataCount<String>[]
+    countWords(String dataStructure, String sortMethod, String file) {
     	 DataCounter<String> counter;
     	 switch(dataStructure){
     	 	case "-b": 
@@ -126,7 +127,8 @@ public class WordCount {
      * 
      * @param counts array to be sorted.
      */
-    private static <E extends Comparable<? super E>> void insertionSortByDescendingCount(
+    private static <E extends Comparable<? super E>>
+    void insertionSortByDescendingCount(
             DataCount<E>[] counts) {
         for (int i = 0; i < counts.length; i++) {
             DataCount<E> x = counts[i];
@@ -149,9 +151,10 @@ public class WordCount {
      * @param counts an array containing a count of the words and the word associated with count
      * @param <E> generic data type
      */
-    private static <E extends Comparable<? super E>> void quickSortByDescendingCount(
+    private static <E extends Comparable<? super E>>
+    void quickSortByDescendingCount(
             DataCount<E>[] counts) {
-        //STUB put your code here
+        quickSortDes(counts, 0, counts.length);
     }
     
     private static <E extends Comparable<? super E>> void quickSortDes(
@@ -204,7 +207,8 @@ public class WordCount {
      * @param counts an array containing a count of the words and the word associated with count
      * @param <E>
      */
-    private static <E extends Comparable<? super E>> void mergeSortByDescendingCount(
+    private static <E extends Comparable<? super E>>
+    void mergeSortByDescendingCount(
             DataCount<E>[] counts) {
         ArrayList<DataCount<E>> tmpArray = new ArrayList<>(counts.length);
 
@@ -221,7 +225,8 @@ public class WordCount {
      * @param <E> generic data type
      */
     private static <E extends Comparable<? super E>>
-    void mergeSortDescending(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray, int left, int right){
+    void mergeSortDescending(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray,
+                             int left, int right){
         if(left < right) {
             int center = (left + right) / 2;
             mergeSortDescending(a, tmpArray, left, center);
@@ -240,7 +245,8 @@ public class WordCount {
      * @param <E>
      */
     private static <E extends Comparable<? super E>>
-    void merge(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray, int leftPos, int rightPos, int rightEnd){
+    void merge(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray,
+               int leftPos, int rightPos, int rightEnd){
         int leftEnd = rightPos - 1;
         int tmpPos = leftPos;
         int numElements = rightEnd - leftPos + 1;
@@ -253,7 +259,8 @@ public class WordCount {
 
 
             }
-            else if( a[leftPos].count == a[rightPos].count ){ //counts are equal, sort alphabetically
+            else if( a[leftPos].count == a[rightPos].count ){
+                //counts are equal, sort alphabetically
                 if( a[leftPos].data.compareTo( a[rightPos].data ) <= 0 ){
                     tmpArray.add(tmpPos++, a[ leftPos++ ]);
                 }
@@ -286,12 +293,14 @@ public class WordCount {
 
 
     
-    public static <E extends Comparable<? super E>> void printWords(DataCount<E>[] counts){
+    public static <E extends Comparable<? super E>>
+    void printWords(DataCount<E>[] counts){
     	for (DataCount<E> c : counts)
             System.out.println(c.count + " \t" + c.data);
     }
 
-    public static String openFile(String filename) throws FileNotFoundException {
+    public static String openFile(String filename)
+            throws FileNotFoundException {
         String fileOutput = "";
         try {
             File inputFile = new File(filename);
@@ -306,7 +315,8 @@ public class WordCount {
         return fileOutput;
     }
     
-    private static <E extends Comparable<? super E>> int compare2DataCounts(
+    private static <E extends Comparable<? super E>>
+    int compare2DataCounts(
     		DataCount<E> data1, DataCount<E> data2){
     	
     	if (data1.count > data2.count ||
@@ -320,7 +330,8 @@ public class WordCount {
     	return -1;
     }
     
-    private static <E extends Comparable<? super E>> void exchange2DataCounts(
+    private static <E extends Comparable<? super E>>
+    void exchange2DataCounts(
     		DataCount<E> data1, DataCount<E> data2){
     	
     	DataCount<E> temp = new DataCount<E>(data1.data, data1.count);
@@ -332,7 +343,8 @@ public class WordCount {
     	
     }
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args)
+            throws FileNotFoundException {
         if (args.length != 4) {
             String filename = "WordCountCommandlineErrorMsg.txt";
             System.err.println(openFile(filename));
