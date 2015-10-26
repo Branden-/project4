@@ -100,7 +100,8 @@ public class WordCount {
                 quickSortByDescendingCount(counts);
                 break;
             case "-ms":
-                mergeSortByDescendingCount(counts);
+                mergeSort.mergeSortByDescendingCount(counts);
+                //mergeSortByDescendingCount(counts); // old version
                 break;
             default: insertionSortByDescendingCount(counts);
         }

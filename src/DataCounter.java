@@ -5,7 +5,7 @@
  * 
  * @param <E> type of data whose count we are recording.
  */
-class DataCount<E> {
+class  DataCount<E extends Comparable<? super E>> extends Object implements Comparable<E> {
     /**
      * The data element whose count we are recording.
      */
@@ -15,6 +15,11 @@ class DataCount<E> {
      * The count for the data element.
      */
     int count;
+
+    @Override
+    public int compareTo(E someItem){
+        return data.compareTo(someItem);
+    }
 
     /**
      * Create a new data count.
@@ -40,7 +45,7 @@ class DataCount<E> {
  * 
  * @param <E> The type of data to be counted.
  */
-public interface DataCounter<E> {
+public interface DataCounter<E extends Comparable<? super E>> {
 
     /**
      * Increment the count for a particular data element.

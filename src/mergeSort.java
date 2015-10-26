@@ -3,14 +3,14 @@ import java.util.ArrayList;
 /**
  * Created by Branden on 10/22/2015.
  */
-public class mergeSort {
+public class mergeSort{
 
-    public static <E extends DataCount<? super E>>
+    public static <E extends DataCount>
     void mergeSortByDescendingCount(
             E[] counts) {
         Object[] tmpArray = new Object[counts.length];
 
-        mergeSortDescending(counts, (E[])tmpArray, 0, counts.length - 1);
+        mergeSortDescending(counts, tmpArray, 0, counts.length - 1);
     }
 
     /**
@@ -22,8 +22,8 @@ public class mergeSort {
      * @param right the right-most index of the subarray
      * @param <E> generic data type
      */
-    private static <E extends Comparable<? super E>>
-    void mergeSortDescending(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray,
+    private static <E extends DataCount>
+    void mergeSortDescending(E[] a,Object[] tmpArray,
                              int left, int right){
         if(left < right) {
             int center = (left + right) / 2;
@@ -42,8 +42,8 @@ public class mergeSort {
      * @param rightEnd the right-most index of the subarray
      * @param <E>
      */
-    private static <E extends Comparable<? super E>>
-    void merge(DataCount<E> [] a, ArrayList<DataCount<E>> tmpArray,
+    private static <E extends DataCount>
+    void merge(E[] a, Object[] tmpArray,
                int leftPos, int rightPos, int rightEnd){
         int leftEnd = rightPos - 1;
         int tmpPos = leftPos;
@@ -53,37 +53,37 @@ public class mergeSort {
         //this does our real sorting
         while( leftPos <= leftEnd && rightPos <= rightEnd ){ //sort according to count, larger first
             if( a[leftPos].count > a[rightPos].count ){
-                tmpArray.add(tmpPos++, a[ leftPos++ ]);
+                tmpArray[tmpPos++] = a[leftPos++];
 
 
             }
             else if( a[leftPos].count == a[rightPos].count ){
                 //counts are equal, sort alphabetically
-                if( a[leftPos].data.compareTo( a[rightPos].data ) <= 0 ){
-                    tmpArray.add(tmpPos++, a[ leftPos++ ]);
+                if( a[leftPos].data.compareTo(a[rightPos].data) <= 0  ){
+                    tmpArray[tmpPos++] = a[leftPos++];
                 }
                 else {
-                    tmpArray.add(tmpPos++, a[ rightPos++ ]);
+                    tmpArray[tmpPos++] = a[rightPos++];
                 }
             }
             else {
-                tmpArray.add(tmpPos++, a[ rightPos++ ] );
+                tmpArray[tmpPos++] = a[rightPos++];
             }
         }
 
         //Copy rest of first half if any left
         while( leftPos <= leftEnd ){
-            tmpArray.add(tmpPos++, a[ leftPos++ ]);
+            tmpArray[tmpPos++] = a[leftPos++];
         }
 
         //copy rest of right half if any left
         while( rightPos <= rightEnd ){
-            tmpArray.add(tmpPos++, a[ rightPos++ ]);
+            tmpArray[tmpPos++] = a[rightPos++];
         }
 
         //Copy tmpArray back
         for(int i = 0; i < numElements; i++, rightEnd-- ){
-            a[ rightEnd ] = tmpArray.get(rightEnd);
+            a[ rightEnd ] = (E)tmpArray[rightEnd];
         }
 
 
